@@ -6597,7 +6597,7 @@
 (14：184-192)[Dehn surgery on symmetric knots](古沢智,作間誠)
 (15：193-203)[Irreducibility of a class of 3-manifolds](高橋敬介)
 
-[0488：C*環とK理論] _1983-01-17~1983-01-19
+[0488：C＊環とK理論] _1983-01-17~1983-01-19
 (00：000-000)[目次](富山淳)
 (01：001-026)[C$^＼ast$環とK理論](中神祥臣)
 (02：027-042)[Anosov葉層のC$^＼ast$-環のK-理論](高井博司)
@@ -7633,7 +7633,7 @@
 (11：173-179)[統計力学に於けるFeynman図形の自動処理I](坂本薫,青江俊夫)
 (12：180-191)[INTERNAL REPRESENTATIONS OF FORMULAS IN JAPANESE COMPUTER ALGEBRA SYSTEM GAL](佐々木建昭,元吉文男)
 
-[0552：位相力学系とC*-環] _1984-09-25~1984-09-29
+[0552：位相力学系とC＊-環] _1984-09-25~1984-09-29
 (00：000-000)[目次](河村新蔵)
 (01：001-010)[推移力学系に対応するC$^＼ast$環上のステート](武元英夫)
 (02：011-020)[K$_0$ and K$_1$-groups of C$^＼ast$-algebras associated with skew product transformations](河村新蔵)
@@ -9261,7 +9261,7 @@
 (15：196-206)[多次元空間での非線形 Klein-Gordon および Liouville 方程式の厳密解](松野好雅)
 (16：207-218)[マグマ方程式について](高橋大輔,薩摩順吉)
 
-[0651：C*代数とその応用] _1987-12-17~1987-12-19
+[0651：C＊代数とその応用] _1987-12-17~1987-12-19
 (00：000-000)[目次](境正一郎)
 (01：001-042)[Yang-Baxter方程式の紹介](神保道夫)
 (02：043-087)[Compact group actions on C$^＼ast$-algebras](岸本晶孝)
@@ -16593,7 +16593,7 @@
 (08：119-133)[Nonradial Solutions to a Linear Elliptic Equation with Symmetric Weight](壁谷喜継,柳田英二)
 (09：134-147)[高次元特異集合を持つ非線型楕円型方程式の解の1つの構成法](高橋太)
 
-[1046：短期共同 Exact C*-環とその周辺] _1998-01-12~1998-01-14
+[1046：短期共同 Exact C＊-環とその周辺] _1998-01-12~1998-01-14
 (00：000-000)[目次](伊藤隆)
 (01：001-008)[Operator Spaceの紹介](小沢登高)
 (02：009-014)[$C^＊$-環上のSchur型クロスノルム](伊藤隆)
@@ -17781,7 +17781,7 @@
 (24：201-211)[Folding maps in group rings](萩田真理子)
 (25：212-223)[On balanced sets and related structures](鈴木寛)
 
-[1110：Hilbert C*-modules and groupoid C*-algebras] _1999-01-25~1999-01-27
+[1110：Hilbert C＊-modules and groupoid C＊-algebras] _1999-01-25~1999-01-27
 (00：000-000)[目次](大内本夫)
 (01：001-008)[非可換$C^＊$-環のSerre-Swan定理](川村勝紀)
 (02：009-017)[Cantor minimal systemとfull groupについて](松井宏樹)
@@ -18615,7 +18615,7 @@
 (28：162-164)[On manifolds whose geodesic flows are integrable](清原一吉)
 (29：165-165)[GEOMETRIC STRUCTURES AND DIFFERENTIAL EQUATIONS ON FILTERED MANIFOLDS](森本徹)
 
-[1151：短期共同研究C*-環論とその位相力学系への応用] _2000-01-18~2000-01-20
+[1151：短期共同研究C＊-環論とその位相力学系への応用] _2000-01-18~2000-01-20
 (00：000-000)[目次](松本健吾,伊藤隆)
 (01：001-071)[The interplay between topological dynamics and theory of $C^＊$-algebras, Part 2 (after the Seoul lecture note 1992)](富山淳)
 (02：072-079)[カントール極小系の自己同型群の有限部分群について](松井宏樹)
@@ -21370,7 +21370,7 @@
 (17：127-130)[同変写像の像と不動点集合の関係について](原靖浩)
 (18：131-142)[HOMEOMORPHISM GROUPS OF FINITE TOPOLOGICAL SPACES](河野進,牛滝文宏)
 
-[1291：C*- 環の諸相] _2002-01-23~2002-01-25
+[1291：C＊-環の諸相] _2002-01-23~2002-01-25
 (00：000-000)[目次](佐野隆志)
 (01：001-010)[NONCOMMUTATIVE METRIC DIMENSION AND DYNAMICAL ENTROPY](David Kerr)
 (02：011-044)[量子分解法による隣接作用素のスペクトル解析：I, 個数作用素が現れない場合](洞彰人,尾畑伸明)
@@ -23183,7 +23183,7 @@
 (10：121-137)[Why and how geometric algebra should be taught at high school：Experiences and proposals](Ramon Gonzalez Calvet)
 (11：138-153)[An Algebraic Foundation for Object-Oriented Euclidean Geometry](Leo Dorst,Daniel Fontijne)
 
-[1379：C*-環と関連する力学系] _2004-01-26~2004-01-28
+[1379：C＊-環と関連する力学系] _2004-01-26~2004-01-28
 (00：000-000)[目次](関根義浩)
 (01：001-011)[作用素環の共形ネットの分類について](河東泰之)
 (02：012-025)[カントール極小系の位相充足群について](松井宏樹)
