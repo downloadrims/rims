@@ -28,7 +28,7 @@
     <files>
       <file num="0" numPages="2" pageFrom="0" pageTo="0">
         <title>目次</title>
-        <auther>岩野正宏、木村俊房、大久保謙二郎</auther>
+        <auther>岩野正宏,木村俊房,大久保謙二郎</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0002-00.pdf</link>
       </file>
       <file num="1" numPages="27" pageFrom="1" pageTo="27">
@@ -57,7 +57,7 @@
     <files>
       <file num="0" numPages="2" pageFrom="0" pageTo="0">
         <title>目次</title>
-        <auther>角谷典彦、今井巧、森口治生</auther>
+        <auther>角谷典彦,今井巧,森口治生</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0003-00.pdf</link>
       </file>
       <file num="1" numPages="13" pageFrom="1" pageTo="13">
@@ -2645,7 +2645,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0054-04.pdf</link>
       </file>
       <file num="5" numPages="6" pageFrom="44" pageTo="49">
-        <title>12〜15次交代群の特微づけ：八牧宏美氏の結果</title>
+        <title>12~15次交代群の特微づけ：八牧宏美氏の結果</title>
         <auther>近藤武</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0054-05.pdf</link>
       </file>
@@ -6159,7 +6159,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0115-05.pdf</link>
       </file>
       <file num="6" numPages="13" pageFrom="118" pageTo="130">
-        <title>多変数関数の極値を求める2〜3の方法の比較：制約条件のない場合</title>
+        <title>多変数関数の極値を求める2~3の方法の比較：制約条件のない場合</title>
         <auther>戸田英雄,高山文雄,高澤嘉光</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0115-06.pdf</link>
       </file>
@@ -9727,7 +9727,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0172-03.pdf</link>
       </file>
       <file num="4" numPages="21" pageFrom="57" pageTo="77">
-        <title>收束のおそい級数の計算についての2〜3の数値例の招介</title>
+        <title>收束のおそい級数の計算についての2~3の数値例の招介</title>
         <auther>戸田英雄</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0172-04.pdf</link>
       </file>
@@ -10358,7 +10358,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0181-09.pdf</link>
       </file>
       <file num="10" numPages="11" pageFrom="118" pageTo="128">
-        <title>ニ次元しきい値関数セル空間の、信号伝播パターン</title>
+        <title>ニ次元しきい値関数セル空間の,信号伝播パターン</title>
         <auther>小渕洋一</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0181-10.pdf</link>
       </file>
@@ -11360,7 +11360,7 @@
   </folder>
   <folder num="198">
     <title>
-      <japanese>谷口国際シンポジウム:Kuiper,Thom,Browder教授 講演記録</japanese>
+      <japanese>谷口国際シンポジウム：Kuiper,Thom,Browder教授 講演記録</japanese>
       <english>Lectures by Kuiper,Thom and Browder at Taniguchi Symposium</english>
     </title>
     <date>1973-04-20~</date>
@@ -15152,7 +15152,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0252-09.pdf</link>
       </file>
       <file num="10" numPages="35" pageFrom="82" pageTo="116">
-        <title>空間･分類･カテゴリー：科学的思考の原初的、基底的な形態</title>
+        <title>空間･分類･カテゴリー：科学的思考の原初的,基底的な形態</title>
         <auther>山田慶児</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0252-10.pdf</link>
       </file>
@@ -16150,7 +16150,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0269-00.pdf</link>
       </file>
       <file num="1" numPages="33" pageFrom="1" pageTo="33">
-        <title>補間スプラインの算法、誤差</title>
+        <title>補間スプラインの算法,誤差</title>
         <auther>秦野和郎</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0269-01.pdf</link>
       </file>
@@ -18463,7 +18463,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0301-13.pdf</link>
       </file>
       <file num="14" numPages="6" pageFrom="143" pageTo="148">
-        <title>自由討論の要旨,付録、素最小原始根表</title>
+        <title>自由討論の要旨,付録,素最小原始根表</title>
         <auther>一松信</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0301-14.pdf</link>
       </file>
@@ -18521,7 +18521,7 @@
   <folder num="303">
     <title>
       <japanese>局所力学系積分方程式と微分方程式</japanese>
-      <english>Local Dynamical Systems:Integral and Differential Equations</english>
+      <english>Local Dynamical Systems：Integral and Differential Equations</english>
     </title>
     <date>1977-06-06~1977-06-08</date>
     <files>
@@ -22233,7 +22233,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0356-02.pdf</link>
       </file>
       <file num="3" numPages="16" pageFrom="24" pageTo="39">
-        <title>十分性、KMS条件及び相互情報量の作用素代数による研究</title>
+        <title>十分性,KMS条件及び相互情報量の作用素代数による研究</title>
         <auther>大矢雅則</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0356-03.pdf</link>
       </file>
@@ -23404,7 +23404,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0370-12.pdf</link>
       </file>
       <file num="13" numPages="10" pageFrom="174" pageTo="183">
-        <title>[0,1]および、その部分空間上の力学系について</title>
+        <title>[0,1]および,その部分空間上の力学系について</title>
         <auther>郡山彬,松岡洋司</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0370-13.pdf</link>
       </file>
@@ -24272,7 +24272,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0382-05.pdf</link>
       </file>
       <file num="6" numPages="29" pageFrom="68" pageTo="96">
-        <title>スプラインによる曲線、曲面のあてはめ</title>
+        <title>スプラインによる曲線,曲面のあてはめ</title>
         <auther>秦野和郎</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0382-06.pdf</link>
       </file>
@@ -24400,7 +24400,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0384-02.pdf</link>
       </file>
       <file num="3" numPages="11" pageFrom="48" pageTo="58">
-        <title>用量、反応モデルにおける許容分布とその母数の制約</title>
+        <title>用量,反応モデルにおける許容分布とその母数の制約</title>
         <auther>柳本武美</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0384-03.pdf</link>
       </file>
@@ -24435,7 +24435,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0384-09.pdf</link>
       </file>
       <file num="10" numPages="22" pageFrom="161" pageTo="182">
-        <title>成人男子喫煙者の健康状態、飲食習慣、性格および社会的背景の特微に関する統計解析</title>
+        <title>成人男子喫煙者の健康状態,飲食習慣,性格および社会的背景の特微に関する統計解析</title>
         <auther>小川浩,富永祐民,青木国雄</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0384-10.pdf</link>
       </file>
@@ -24894,7 +24894,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0390-08.pdf</link>
       </file>
       <file num="9" numPages="19" pageFrom="111" pageTo="129">
-        <title>乱流における粘性、拡散、散逸</title>
+        <title>乱流における粘性,拡散,散逸</title>
         <auther>桑原真二</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0390-09.pdf</link>
       </file>
@@ -24963,7 +24963,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0391-04.pdf</link>
       </file>
       <file num="5" numPages="17" pageFrom="74" pageTo="90">
-        <title>Riemann多様体の測地線、曲率とブラウン運動</title>
+        <title>Riemann多様体の測地線,曲率とブラウン運動</title>
         <auther>市原完治</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0391-05.pdf</link>
       </file>
@@ -26639,8 +26639,8 @@
   </folder>
   <folder num="414">
     <title>
-      <japanese>非線型波動:古典論と量子論</japanese>
-      <english>Non-Linear Waves:Classical Theory and Quantum Theory</english>
+      <japanese>非線型波動：古典論と量子論</japanese>
+      <english>Non-Linear Waves：Classical Theory and Quantum Theory</english>
     </title>
     <date>1980-09-24~1980-09-27</date>
     <files>
@@ -26857,7 +26857,7 @@
   <folder num="417">
     <title>
       <japanese>低次元多様体の構造と分類について</japanese>
-      <english>Lower Dimensional Manifolds:Their Structures and Classification</english>
+      <english>Lower Dimensional Manifolds：Their Structures and Classification</english>
     </title>
     <date>1980-09-01~1980-09-03</date>
     <files>
@@ -28095,8 +28095,8 @@
   </folder>
   <folder num="433">
     <title>
-      <japanese>数学分野の情報検索:現状と方策</japanese>
-      <english>Information Retrievals in the Field of Mathematics:Present and Plans</english>
+      <japanese>数学分野の情報検索：現状と方策</japanese>
+      <english>Information Retrievals in the Field of Mathematics：Present and Plans</english>
     </title>
     <date>1981-05-11~1981-05-13</date>
     <files>
@@ -28131,7 +28131,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0433-05.pdf</link>
       </file>
       <file num="6" numPages="41" pageFrom="64" pageTo="104">
-        <title>会議録、議事録のデータベース作成</title>
+        <title>会議録,議事録のデータベース作成</title>
         <auther>羽鳥淺子,池沢順,吉永恵子</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0433-06.pdf</link>
       </file>
@@ -31059,7 +31059,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0470-05.pdf</link>
       </file>
       <file num="6" numPages="2" pageFrom="89" pageTo="90">
-        <title>CSP、DP、Adaの比較</title>
+        <title>CSP,DP,Adaの比較</title>
         <auther>石畑清</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0470-06.pdf</link>
       </file>
@@ -31232,7 +31232,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0472-07.pdf</link>
       </file>
       <file num="8" numPages="21" pageFrom="88" pageTo="108">
-        <title>ヤコビ･ペロンの算法 陪直交多項式、一般化された戸田格子</title>
+        <title>ヤコビ･ペロンの算法 陪直交多項式,一般化された戸田格子</title>
         <auther>青本和彦,加藤芳文</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0472-08.pdf</link>
       </file>
@@ -31632,7 +31632,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0477-04.pdf</link>
       </file>
       <file num="5" numPages="18" pageFrom="57" pageTo="74">
-        <title>循環する流体の自由境界問題：解の存在と一意性、非一意性</title>
+        <title>循環する流体の自由境界問題：解の存在と一意性,非一意性</title>
         <auther>岡本久</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0477-05.pdf</link>
       </file>
@@ -32299,7 +32299,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0485-07.pdf</link>
       </file>
       <file num="8" numPages="14" pageFrom="145" pageTo="158">
-        <title>放物形偏微分方程式の安定化：境界観測、境界制御</title>
+        <title>放物形偏微分方程式の安定化：境界観測,境界制御</title>
         <auther>南部隆夫</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0485-08.pdf</link>
       </file>
@@ -32847,7 +32847,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0492-04.pdf</link>
       </file>
       <file num="5" numPages="11" pageFrom="55" pageTo="65">
-        <title>擬逆作用素の2、3の応用</title>
+        <title>擬逆作用素の2,3の応用</title>
         <auther>泉野佐一</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0492-05.pdf</link>
       </file>

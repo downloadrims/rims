@@ -87,7 +87,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1501-0.pdf</link>
       </file>
       <file num="1" numPages="9" pageFrom="1" pageTo="9">
-        <title>超平面配置入門：特に、自由超平面配置について</title>
+        <title>超平面配置入門：特に,自由超平面配置について</title>
         <auther>寺尾宏明</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1501-1.pdf</link>
       </file>
@@ -304,7 +304,7 @@
   </folder>
   <folder num="1503">
     <title>
-      <japanese>代数、言語、計算システムにおけるアルゴリズム問題</japanese>
+      <japanese>代数,言語,計算システムにおけるアルゴリズム問題</japanese>
       <english>Algorithmic problems in algebra, languages and computation systems</english>
     </title>
     <date>2006-02-20~2006-02-22</date>
@@ -786,7 +786,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1507-7.pdf</link>
       </file>
       <file num="8" numPages="7" pageFrom="88" pageTo="94">
-        <title>量子解析とq-微分およびそれらの積分表示：偶然から必然へ、量子から古典へ、ミクロからマクロへ</title>
+        <title>量子解析とq-微分およびそれらの積分表示：偶然から必然へ,量子から古典へ,ミクロからマクロへ</title>
         <auther>鈴木増雄</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1507-8.pdf</link>
       </file>
@@ -4432,7 +4432,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1546-13.pdf</link>
       </file>
       <file num="14" numPages="6" pageFrom="175" pageTo="180">
-        <title>古法、四乗求背の術、六乗求背の元術について</title>
+        <title>古法,四乗求背の術,六乗求背の元術について</title>
         <auther>森本光生</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1546-14.pdf</link>
       </file>
@@ -4462,7 +4462,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1546-19.pdf</link>
       </file>
       <file num="20" numPages="12" pageFrom="247" pageTo="258">
-        <title>藤原松三郎先生と平山諦先生：時代に生き、時代と格闘し、遺したこと</title>
+        <title>藤原松三郎先生と平山諦先生：時代に生き,時代と格闘し,遺したこと</title>
         <auther>鈴木武雄</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1546-20.pdf</link>
       </file>
@@ -4526,7 +4526,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1547-09.pdf</link>
       </file>
       <file num="10" numPages="9" pageFrom="78" pageTo="86">
-        <title>固有値が1の二階非線形差分方程式に帰着される、ある関数方程式について</title>
+        <title>固有値が1の二階非線形差分方程式に帰着される,ある関数方程式について</title>
         <auther>鈴木まみ</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1547-10.pdf</link>
       </file>
@@ -6031,8 +6031,8 @@
   </folder>
   <folder num="1561">
     <title>
-      <japanese>非加法の数理と情報:函数解析の視点から</japanese>
-      <english>Information and mathematics of non-additivity and non-extensivity: from the viewpoint of functional analysis</english>
+      <japanese>非加法の数理と情報：函数解析の視点から</japanese>
+      <english>Information and mathematics of non-additivity and non-extensivity：from the viewpoint of functional analysis</english>
     </title>
     <date>2006-09-25~2006-09-27</date>
     <files>
@@ -6135,7 +6135,7 @@
   </folder>
   <folder num="1562">
     <title>
-      <japanese>代数、形式言語、計算システム理論とその応用</japanese>
+      <japanese>代数,形式言語,計算システム理論とその応用</japanese>
       <english>Algebras, Languages, Computations and their Applications</english>
     </title>
     <date>2007-02-19~2007-02-21</date>
@@ -6665,7 +6665,7 @@
   </folder>
   <folder num="1567">
     <title>
-      <japanese>乱流と輸送現象:コーヒーカップから宇宙まで</japanese>
+      <japanese>乱流と輸送現象：コーヒーカップから宇宙まで</japanese>
       <english>Turbulence and transport phenomena</english>
     </title>
     <date>2007-01-10~2007-01-12</date>
@@ -7037,7 +7037,7 @@
   </folder>
   <folder num="1570">
     <title>
-      <japanese>バナッハ空間、関数空間及び不等式の研究とその応用</japanese>
+      <japanese>バナッハ空間,関数空間及び不等式の研究とその応用</japanese>
       <english>Banach spaces, function spaces, inequalities and their applications</english>
     </title>
     <date>2007-06-06~2007-06-08</date>
@@ -7151,7 +7151,7 @@
   </folder>
   <folder num="1571">
     <title>
-      <japanese>双曲空間のトポロジー、複素解析および数論</japanese>
+      <japanese>双曲空間のトポロジー,複素解析および数論</japanese>
       <english>Topology, Complex Analysis and Arithmetic of Hyperbolic Spaces</english>
     </title>
     <date>2006-12-04~2006-12-08</date>
@@ -8210,7 +8210,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1583-05.pdf</link>
       </file>
       <file num="6" numPages="12" pageFrom="77" pageTo="88">
-        <title>北京北堂教会目録について：16世紀以降、中国へ渡来した宣教師たちのもたらした書物</title>
+        <title>北京北堂教会目録について：16世紀以降,中国へ渡来した宣教師たちのもたらした書物</title>
         <auther>鈴木武雄</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1583-06.pdf</link>
       </file>
@@ -8230,7 +8230,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1583-09.pdf</link>
       </file>
       <file num="10" numPages="24" pageFrom="123" pageTo="146">
-        <title>オイラーの不朽の業績、｢力学｣と｢変分法｣：彼の広汎な｢数理科学｣の基礎をめぐって</title>
+        <title>オイラーの不朽の業績,｢力学｣と｢変分法｣：彼の広汎な｢数理科学｣の基礎をめぐって</title>
         <auther>阿部剛久</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1583-10.pdf</link>
       </file>
@@ -8412,8 +8412,8 @@
   </folder>
   <folder num="1585">
     <title>
-      <japanese>非加法性の数理と情報:非線形性･非可換性との接点</japanese>
-      <english>Information and mathematics of non-additivity and non-extensivity: contacts with nonlinearity and non-commutativity</english>
+      <japanese>非加法性の数理と情報：非線形性･非可換性との接点</japanese>
+      <english>Information and mathematics of non-additivity and non-extensivity：contacts with nonlinearity and non-commutativity</english>
     </title>
     <date>2007-08-13~2007-08-15</date>
     <files>
@@ -9626,7 +9626,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1597-09.pdf</link>
       </file>
       <file num="10" numPages="10" pageFrom="40" pageTo="49">
-        <title>デング出血熱とその媒介蚊、ワクチンに関するモデル構築</title>
+        <title>デング出血熱とその媒介蚊,ワクチンに関するモデル構築</title>
         <auther>長尾吉郎,坂本亘</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1597-10.pdf</link>
       </file>
@@ -9883,8 +9883,8 @@
   </folder>
   <folder num="1599">
     <title>
-      <japanese>理論計算機科学の深化:新たな計算世界観を求めて</japanese>
-      <english>Foundations of Theoretical Computer Science: For New Computational View</english>
+      <japanese>理論計算機科学の深化：新たな計算世界観を求めて</japanese>
+      <english>Foundations of Theoretical Computer Science：For New Computational View</english>
     </title>
     <date>2008-01-28~2008-01-30</date>
     <files>
@@ -10121,8 +10121,8 @@
   </folder>
   <folder num="1601">
     <title>
-      <japanese>乱流研究の展望:ブレークスルーを求めて</japanese>
-      <english>Perspectives in turbulence research: Search for break through</english>
+      <japanese>乱流研究の展望：ブレークスルーを求めて</japanese>
+      <english>Perspectives in turbulence research：Search for break through</english>
     </title>
     <date>2008-01-16~2008-01-18</date>
     <files>
@@ -10388,7 +10388,7 @@
   </folder>
   <folder num="1604">
     <title>
-      <japanese>代数、言語のアルゴリズムと計算理論</japanese>
+      <japanese>代数,言語のアルゴリズムと計算理論</japanese>
       <english>Algorithmic and Computational Theory in Algebra and Languages</english>
     </title>
     <date>2008-02-20~2008-02-22</date>
@@ -10577,7 +10577,7 @@
   <folder num="1606">
     <title>
       <japanese>流体計算における高速アルゴリズムの理論とその応用</japanese>
-      <english>Fast Algorithms in Computational Fluids: theory and applications</english>
+      <english>Fast Algorithms in Computational Fluids：theory and applications</english>
     </title>
     <date>2008-02-18~2008-02-20</date>
     <files>
@@ -10709,8 +10709,8 @@
   </folder>
   <folder num="1608">
     <title>
-      <japanese>オイラー方程式250年:連続体力学におけるオイラーの遺産</japanese>
-      <english>Euler equations 250 years: Legacy of Euler in continuum mechanics</english>
+      <japanese>オイラー方程式250年：連続体力学におけるオイラーの遺産</japanese>
+      <english>Euler equations 250 years：Legacy of Euler in continuum mechanics</english>
     </title>
     <date>2007-09-12~2007-09-14</date>
     <files>
@@ -11315,7 +11315,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1613-01.pdf</link>
       </file>
       <file num="2" numPages="20" pageFrom="6" pageTo="25">
-        <title>単射性、消滅、捻れ不在定理について</title>
+        <title>単射性,消滅,捻れ不在定理について</title>
         <auther>藤野修</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1613-02.pdf</link>
       </file>
@@ -12283,8 +12283,8 @@
   </folder>
   <folder num="1624">
     <title>
-      <japanese>数式処理と教育:数学教育における数式処理システムの効果的利用に関する研究</japanese>
-      <english>Computer Algebra Systems and Education: A Research about Effective Use of CAS in Mathematics Education</english>
+      <japanese>数式処理と教育：数学教育における数式処理システムの効果的利用に関する研究</japanese>
+      <english>Computer Algebra Systems and Education：A Research about Effective Use of CAS in Mathematics Education</english>
     </title>
     <date>2008-08-27~2008-08-29</date>
     <files>
@@ -12748,8 +12748,8 @@
   </folder>
   <folder num="1629">
     <title>
-      <japanese>21世紀の数理計画:最適化モデルとアルゴリズム</japanese>
-      <english>Mathematical Programming in the 21st Century: Optimization Modeling and Algorithms</english>
+      <japanese>21世紀の数理計画：最適化モデルとアルゴリズム</japanese>
+      <english>Mathematical Programming in the 21st Century：Optimization Modeling and Algorithms</english>
     </title>
     <date>2008-07-23~2008-07-25</date>
     <files>
@@ -12897,8 +12897,8 @@
   </folder>
   <folder num="1630">
     <title>
-      <japanese>非加法性の数理と情報:非加法性と凸解析</japanese>
-      <english>Information and mathematics of non-additivity and non-extensivity: non-additivity and convex analysis</english>
+      <japanese>非加法性の数理と情報：非加法性と凸解析</japanese>
+      <english>Information and mathematics of non-additivity and non-extensivity：non-additivity and convex analysis</english>
     </title>
     <date>2008-08-25~2008-08-27</date>
     <files>
@@ -13690,7 +13690,7 @@
   <folder num="1638">
     <title>
       <japanese>数値解析における理論･手法･応用</japanese>
-      <english>Numerical Analysis: Theory, Methods and Applications</english>
+      <english>Numerical Analysis：Theory, Methods and Applications</english>
     </title>
     <date>2008-11-12~2008-11-14</date>
     <files>
@@ -14040,8 +14040,8 @@
   </folder>
   <folder num="1642">
     <title>
-      <japanese>オイラー方程式の数理:渦運動150年</japanese>
-      <english>Mathematical analysis of the Euler equation : 150 years of vortex dynamics</english>
+      <japanese>オイラー方程式の数理：渦運動150年</japanese>
+      <english>Mathematical analysis of the Euler equation：150 years of vortex dynamics</english>
     </title>
     <date>2008-07-16~2008-07-18</date>
     <files>
@@ -14686,7 +14686,7 @@
     <files>
       <file num="0" numPages="5" pageFrom="0" pageTo="0">
         <title>目次</title>
-        <auther>戸瀬信之、野呂正行</auther>
+        <auther>戸瀬信之,野呂正行</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1648-00.pdf</link>
       </file>
       <file num="1" numPages="16" pageFrom="1" pageTo="16">
@@ -15340,7 +15340,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1653-08.pdf</link>
       </file>
       <file num="9" numPages="17" pageFrom="52" pageTo="68">
-        <title>繁殖干渉、アリー効果、環境変動を考慮した有性生殖種と単為生殖種の種間競争の解析</title>
+        <title>繁殖干渉,アリー効果,環境変動を考慮した有性生殖種と単為生殖種の種間競争の解析</title>
         <auther>岸茂樹,深澤恵介,大野理恵</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1653-09.pdf</link>
       </file>
@@ -17591,8 +17591,8 @@
   </folder>
   <folder num="1676">
     <title>
-      <japanese>21世紀の数理計画:アルゴリズムとモデリング</japanese>
-      <english>Mathematical Programming in the 21st Century:Algorithms and Modeling</english>
+      <japanese>21世紀の数理計画：アルゴリズムとモデリング</japanese>
+      <english>Mathematical Programming in the 21st Century：Algorithms and Modeling</english>
     </title>
     <date>2009-07-22~2009-07-24</date>
     <files>
@@ -17726,7 +17726,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1677-02.pdf</link>
       </file>
       <file num="3" numPages="7" pageFrom="20" pageTo="26">
-        <title>関孝和の交式、斜乘</title>
+        <title>関孝和の交式,斜乘</title>
         <auther>竹之内脩</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1677-03.pdf</link>
       </file>
@@ -17781,7 +17781,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1677-13.pdf</link>
       </file>
       <file num="14" numPages="10" pageFrom="131" pageTo="140">
-        <title>日本の江戸時代における対数の歴史[縮約版]：1780年〜1830年頃を中心として</title>
+        <title>日本の江戸時代における対数の歴史[縮約版]：1780年~1830年頃を中心として</title>
         <auther>横塚啓之</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1677-14.pdf</link>
       </file>
@@ -18364,8 +18364,8 @@
   </folder>
   <folder num="1683">
     <title>
-      <japanese>非加法性の数理と情報:凸解析との接点</japanese>
-      <english>Information and mathematics of non-additivity and non-extensivity: contacts with convex analysis</english>
+      <japanese>非加法性の数理と情報：凸解析との接点</japanese>
+      <english>Information and mathematics of non-additivity and non-extensivity：contacts with convex analysis</english>
     </title>
     <date>2009-08-05~2009-08-07</date>
     <files>
@@ -19715,8 +19715,8 @@
   </folder>
   <folder num="1697">
     <title>
-      <japanese>オイラー方程式の数理:渦運動と音波150年</japanese>
-      <english>Mathematical analysis of the Euler equations : 150 years of vortex dynamics and sound waves</english>
+      <japanese>オイラー方程式の数理：渦運動と音波150年</japanese>
+      <english>Mathematical analysis of the Euler equations：150 years of vortex dynamics and sound waves</english>
     </title>
     <date>2009-07-21~2009-07-23</date>
     <files>
@@ -19840,7 +19840,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1698-00.pdf</link>
       </file>
       <file num="1" numPages="17" pageFrom="1" pageTo="17">
-        <title>基調講演：これからの生命科学、数学に求めること</title>
+        <title>基調講演：これからの生命科学,数学に求めること</title>
         <auther>藤吉好則</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1698-01.pdf</link>
       </file>
@@ -20604,7 +20604,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1704-22.pdf</link>
       </file>
       <file num="23" numPages="5" pageFrom="138" pageTo="142">
-        <title>成長するドメインにおける、遺伝子発現の時間遅れがパターン形成に与える影響について</title>
+        <title>成長するドメインにおける,遺伝子発現の時間遅れがパターン形成に与える影響について</title>
         <auther>李聖林,ガッフニーE.A.</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1704-23.pdf</link>
       </file>
@@ -22038,7 +22038,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1720-09.pdf</link>
       </file>
       <file num="10" numPages="20" pageFrom="154" pageTo="173">
-        <title>コンパクト･リー群、対称空間への2-調和写像</title>
+        <title>コンパクト･リー群,対称空間への2-調和写像</title>
         <auther>浦川肇</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1720-10.pdf</link>
       </file>
@@ -23398,7 +23398,7 @@
   <folder num="1735">
     <title>
       <japanese>数式処理と教育</japanese>
-      <english>Computer Algebra Systems and Education: A research about Effective Use of CAS in Mathematics Education</english>
+      <english>Computer Algebra Systems and Education：A research about Effective Use of CAS in Mathematics Education</english>
     </title>
     <date>2010-08-30~2010-09-01</date>
     <files>
@@ -24095,7 +24095,7 @@
   </folder>
   <folder num="1742">
     <title>
-      <japanese>力学系 — 理論から応用へ、応用から理論へ —</japanese>
+      <japanese>力学系 -理論から応用へ,応用から理論へ-</japanese>
       <english>Dynamical Systems - Theories to Applications and Applications to Theories</english>
     </title>
     <date>2010-09-27~2010-09-30</date>
@@ -24788,8 +24788,8 @@
   </folder>
   <folder num="1749">
     <title>
-      <japanese>オイラー方程式の数理:力学と変分原理250年</japanese>
-      <english>Mathematical analyses of the Euler equations : 250 years of mechanics and variational principle</english>
+      <japanese>オイラー方程式の数理：力学と変分原理250年</japanese>
+      <english>Mathematical analyses of the Euler equations：250 years of mechanics and variational principle</english>
     </title>
     <date>2010-07-12~2010-07-14</date>
     <files>
@@ -25126,7 +25126,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1752-06.pdf</link>
       </file>
       <file num="7" numPages="8" pageFrom="49" pageTo="56">
-        <title>近年の医療画像診断の進歩3次元から4次元へ、形態画像から機能画像へ</title>
+        <title>近年の医療画像診断の進歩3次元から4次元へ,形態画像から機能画像へ</title>
         <auther>植田琢也</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1752-07.pdf</link>
       </file>
@@ -26726,8 +26726,8 @@
   </folder>
   <folder num="1771">
     <title>
-      <japanese>乱流研究 次の10年:乱流の動的構造の理解へ向けて</japanese>
-      <english>Next decade for turbulence research: understanding of dynamical structure of turbulence</english>
+      <japanese>乱流研究 次の10年：乱流の動的構造の理解へ向けて</japanese>
+      <english>Next decade for turbulence research：understanding of dynamical structure of turbulence</english>
     </title>
     <date>2011-01-12~2011-01-14</date>
     <files>
@@ -27161,8 +27161,8 @@
   </folder>
   <folder num="1776">
     <title>
-      <japanese>オイラー方程式の数理:カルマン渦列と非定常渦運動100年</japanese>
-      <english>Mathematical analysis of the Euler equation : 100 years of the Karman vortex street and unsteady vortex motion</english>
+      <japanese>オイラー方程式の数理：カルマン渦列と非定常渦運動100年</japanese>
+      <english>Mathematical analysis of the Euler equation：100 years of the Karman vortex street and unsteady vortex motion</english>
     </title>
     <date>2011-07-20~2011-07-22</date>
     <files>
@@ -27172,7 +27172,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1776-00.pdf</link>
       </file>
       <file num="1" numPages="11" pageFrom="1" pageTo="11">
-        <title>渦、乱流の研究と層流翼型の開発</title>
+        <title>渦,乱流の研究と層流翼型の開発</title>
         <auther>橋本毅彦</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1776-01.pdf</link>
       </file>
@@ -27359,7 +27359,7 @@
   </folder>
   <folder num="1778">
     <title>
-      <japanese>スペクトル、数域などの作用素の幾何的特性量を用いた作用素の構造研究</japanese>
+      <japanese>スペクトル,数域などの作用素の幾何的特性量を用いた作用素の構造研究</japanese>
       <english>Structural study of operators via spectra or numerical ranges</english>
     </title>
     <date>2011-11-14~2011-11-16</date>
@@ -27517,8 +27517,8 @@
   </folder>
   <folder num="1780">
     <title>
-      <japanese>数学ソフトウェアと教育 - 数学ソフトウェアの効果的利用に関する研究 -</japanese>
-      <english>Mathematical Softwares and Education: A research about Effective Use of Mathematical Softwares in Mathematics Education</english>
+      <japanese>数学ソフトウェアと教育 -数学ソフトウェアの効果的利用に関する研究-</japanese>
+      <english>Mathematical Softwares and Education：A research about Effective Use of Mathematical Softwares in Mathematics Education</english>
     </title>
     <date>2011-08-24~2011-08-26</date>
     <files>
@@ -28216,7 +28216,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1787-07.pdf</link>
       </file>
       <file num="8" numPages="11" pageFrom="105" pageTo="115">
-        <title>『三才発秘』(陳Wen、1697年)と｢阿蘭陀符帳｣：Napier's Bonesの日本伝来</title>
+        <title>『三才発秘』(陳Wen,1697年)と｢阿蘭陀符帳｣：Napier's Bonesの日本伝来</title>
         <auther>城地茂,劉Bowen,張Hao</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1787-08.pdf</link>
       </file>
@@ -28424,7 +28424,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1789-05.pdf</link>
       </file>
       <file num="6" numPages="5" pageFrom="23" pageTo="27">
-        <title>捕食圧は被食者の同所的棲息性を生み出すか、破壊するか？：協力的移住の進化理論</title>
+        <title>捕食圧は被食者の同所的棲息性を生み出すか,破壊するか？：協力的移住の進化理論</title>
         <auther>入谷亮介,富田基史,増田亮麿</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1789-06.pdf</link>
       </file>
@@ -28927,7 +28927,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1796-00.pdf</link>
       </file>
       <file num="1" numPages="14" pageFrom="1" pageTo="14">
-        <title>ウイルス学および疫学モデルにおけるリアプノフ関数、汎関数の構成</title>
+        <title>ウイルス学および疫学モデルにおけるリアプノフ関数,汎関数の構成</title>
         <auther>梶原毅,佐々木徹,竹内康博</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1796-01.pdf</link>
       </file>

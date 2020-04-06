@@ -2235,8 +2235,8 @@
   </folder>
   <folder num="1822">
     <title>
-      <japanese>乱流の普遍性と個別性:流体乱流を通して宇宙を見る</japanese>
-      <english>Universality and individuality of turbulence: universe from a point of view of fluid turbulence</english>
+      <japanese>乱流の普遍性と個別性：流体乱流を通して宇宙を見る</japanese>
+      <english>Universality and individuality of turbulence：universe from a point of view of fluid turbulence</english>
     </title>
     <date>2012-01-11~2012-01-13</date>
     <files>
@@ -4058,7 +4058,7 @@
   </folder>
   <folder num="1844">
     <title>
-      <japanese>デザイン、符号、グラフおよびその周辺</japanese>
+      <japanese>デザイン,符号,グラフおよびその周辺</japanese>
       <english>Designs, Codes, Graphs and Related Areas</english>
     </title>
     <date>2012-07-17~2012-07-19</date>
@@ -4791,7 +4791,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1852-07.pdf</link>
       </file>
       <file num="8" numPages="11" pageFrom="60" pageTo="70">
-        <title>ランキングベクトルによるSI企業の評価及び、将来性評価について</title>
+        <title>ランキングベクトルによるSI企業の評価及び,将来性評価について</title>
         <auther>青葉達也,大島邦夫,石澤伊矩麿</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1852-08.pdf</link>
       </file>
@@ -5779,7 +5779,7 @@
   </folder>
   <folder num="1863">
     <title>
-      <japanese>数学と生命現象の関連性の探究 〜新しいモデリングの数理〜</japanese>
+      <japanese>数学と生命現象の関連性の探究 -新しいモデリングの数理-</japanese>
       <english>Kyoto Winter Research Program in Mathematical Biology Next Wave 2012</english>
     </title>
     <date>2012-12-17~2012-12-21</date>
@@ -7329,7 +7329,7 @@
   <folder num="1879">
     <title>
       <japanese>最適化の基礎理論と応用</japanese>
-      <english>Optimization: Theory and Application</english>
+      <english>Optimization：Theory and Application</english>
     </title>
     <date>2013-08-29~2013-08-30</date>
     <files>
@@ -7995,7 +7995,7 @@
   </folder>
   <folder num="1887">
     <title>
-      <japanese>数学と生命現象の連関性の探究 〜新しいモデリングの数理〜</japanese>
+      <japanese>数学と生命現象の連関性の探究 -新しいモデリングの数理-</japanese>
       <english>Kyoto Summer Research Program in Mathematical Biology Next Wave 2013</english>
     </title>
     <date>2013-06-24~2013-06-28</date>
@@ -8128,7 +8128,7 @@
   </folder>
   <folder num="1889">
     <title>
-      <japanese>デザイン、符号、グラフおよびその周辺</japanese>
+      <japanese>デザイン,符号,グラフおよびその周辺</japanese>
       <english>Designs, Codes, Graphs and Related Areas</english>
     </title>
     <date>2013-07-01~2013-07-03</date>
@@ -11226,7 +11226,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1922-16.pdf</link>
       </file>
       <file num="17" numPages="6" pageFrom="124" pageTo="129">
-        <title>非有向曲面におけるデーン･ツィスト、ゴールドマン･リー代数とスケイン加群</title>
+        <title>非有向曲面におけるデーン･ツィスト,ゴールドマン･リー代数とスケイン加群</title>
         <auther>辻俊輔</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1922-17.pdf</link>
       </file>
@@ -11956,8 +11956,8 @@
   </folder>
   <folder num="1931">
     <title>
-      <japanese>最適化アルゴリズムの進展:理論･応用･実装</japanese>
-      <english>Optimization Algorithms: theory, application and implementation</english>
+      <japanese>最適化アルゴリズムの進展：理論･応用･実装</japanese>
+      <english>Optimization Algorithms：theory, application and implementation</english>
     </title>
     <date>2014-09-24~2014-09-25</date>
     <files>
@@ -14361,7 +14361,7 @@
   </folder>
   <folder num="1956">
     <title>
-      <japanese>デザイン、符号、グラフおよびその周辺</japanese>
+      <japanese>デザイン,符号,グラフおよびその周辺</japanese>
       <english>Designs, Codes, Graphs and Related Areas</english>
     </title>
     <date>2014-07-23~2014-07-25</date>
@@ -15286,7 +15286,7 @@
   </folder>
   <folder num="1966">
     <title>
-      <japanese>数学と生命現象の連関性の探求 〜新しいモデリングの数理〜</japanese>
+      <japanese>数学と生命現象の連関性の探求 -新しいモデリングの数理-</japanese>
       <english>Kyoto Winter Research Program in Mathematical Biology Next Wave</english>
     </title>
     <date>2015-01-19~2015-01-23</date>
@@ -16516,8 +16516,8 @@
   </folder>
   <folder num="1981">
     <title>
-      <japanese>新時代を担う最適化:モデル化手法と数値計算</japanese>
-      <english>Optimization for the new age: modeling method and numerical calculation</english>
+      <japanese>新時代を担う最適化：モデル化手法と数値計算</japanese>
+      <english>Optimization for the new age：modeling method and numerical calculation</english>
     </title>
     <date>2015-8-31~2015-09-01</date>
     <files>
@@ -16876,7 +16876,7 @@
   </folder>
   <folder num="1986">
     <title>
-      <japanese>デザイン、符号、グラフおよびその周辺</japanese>
+      <japanese>デザイン,符号,グラフおよびその周辺</japanese>
       <english>Designs, Codes, Graphs and Related Areas</english>
     </title>
     <date>2015-07-08~2015-07-10</date>
@@ -17729,7 +17729,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1994-15.pdf</link>
       </file>
       <file num="16" numPages="7" pageFrom="94" pageTo="100">
-        <title>フラクタル解析から見るラット肝類洞、毛細胆管ネットワーク構造と疾患による形態変化</title>
+        <title>フラクタル解析から見るラット肝類洞,毛細胆管ネットワーク構造と疾患による形態変化</title>
         <auther>昌子浩登,佐久間省吾,本谷秀堅,赤星経一,工藤篤</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1994-16.pdf</link>
       </file>
@@ -17838,7 +17838,7 @@
   <folder num="1995">
     <title>
       <japanese>現象解明に向けた数値解析学の新展開</japanese>
-      <english>Numerical Analysis: New Developments for Elucidating Interdisciplinary Problems</english>
+      <english>Numerical Analysis：New Developments for Elucidating Interdisciplinary Problems</english>
     </title>
     <date>2015-11-18~2015-11-20</date>
     <files>
@@ -18809,7 +18809,7 @@
   </folder>
   <folder num="2008">
     <title>
-      <japanese>代数系、論理、言語と計算機科学</japanese>
+      <japanese>代数系,論理,言語と計算機科学</japanese>
       <english>Algebraic system, Logic, Language and Computer Science</english>
     </title>
     <date>2016-02-15~2016-02-17</date>
@@ -20012,7 +20012,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2021-10.pdf</link>
       </file>
       <file num="11" numPages="4" pageFrom="120" pageTo="123">
-        <title>校での統計教育、大学での確率統計教育</title>
+        <title>校での統計教育,大学での確率統計教育</title>
         <auther>楠岡成雄</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2021-11.pdf</link>
       </file>
@@ -21406,7 +21406,7 @@
   <folder num="2037">
     <title>
       <japanese>現象解明に向けた数値解析学の新展開 II</japanese>
-      <english>Numerical Analysis: New Developments for Elucidating Interdisciplinary Problems II</english>
+      <english>Numerical Analysis：New Developments for Elucidating Interdisciplinary Problems II</english>
     </title>
     <date>2016-10-19~2016-10-21</date>
     <files>
@@ -22681,7 +22681,7 @@
   </folder>
   <folder num="2051">
     <title>
-      <japanese>言語、論理、代数系と計算機科学の展開</japanese>
+      <japanese>言語,論理,代数系と計算機科学の展開</japanese>
       <english>Developments of Language, Logic, Algebraic system and Computer Science</english>
     </title>
     <date>2017-02-20~2017-02-22</date>
@@ -24238,8 +24238,8 @@
   </folder>
   <folder num="2069">
     <title>
-      <japanese>数理最適化の発展:モデル化とアルゴリズム</japanese>
-      <english>Development of Mathematical Optimization: Modeling and Algorithms</english>
+      <japanese>数理最適化の発展：モデル化とアルゴリズム</japanese>
+      <english>Development of Mathematical Optimization：Modeling and Algorithms</english>
     </title>
     <date>2017-08-24~2017-08-25</date>
     <files>
@@ -24432,7 +24432,7 @@
   <folder num="2071">
     <title>
       <japanese>可積分系数理の現状と展望</japanese>
-      <english>Studies on Integrable Systems: State of the Art and Perspective for Future</english>
+      <english>Studies on Integrable Systems：State of the Art and Perspective for Future</english>
     </title>
     <date>2016-09-05~2016-09-07</date>
     <files>
@@ -25049,8 +25049,8 @@
   </folder>
   <folder num="2078">
     <title>
-      <japanese>不確実性の下での意思決定理論とその応用:計画数学の展開</japanese>
-      <english>Decision making theories under uncertainty and its applications: the extensions of mathematics for programming</english>
+      <japanese>不確実性の下での意思決定理論とその応用：計画数学の展開</japanese>
+      <english>Decision making theories under uncertainty and its applications：the extensions of mathematics for programming</english>
     </title>
     <date>2017-11-15~2017-11-17</date>
     <files>
@@ -26484,7 +26484,7 @@
   <folder num="2094">
     <title>
       <japanese>数値解析学の最前線-理論･方法･応用-</japanese>
-      <english>The State of the Art in Numerical Analysis: Theory, Methods, and Applications</english>
+      <english>The State of the Art in Numerical Analysis：Theory, Methods, and Applications</english>
     </title>
     <date>2017-11-08~2017-11-10</date>
     <files>
@@ -26741,7 +26741,7 @@
   </folder>
   <folder num="2096">
     <title>
-      <japanese>代数系、論理、言語とその周辺領域</japanese>
+      <japanese>代数系,論理,言語とその周辺領域</japanese>
       <english>Algebras, logics, languages and related areas</english>
     </title>
     <date>2018-02-19~2018-02-21</date>
@@ -27339,7 +27339,7 @@
   </folder>
   <folder num="2103">
     <title>
-      <japanese>表現論と代数、解析、幾何をめぐる諸問題</japanese>
+      <japanese>表現論と代数,解析,幾何をめぐる諸問題</japanese>
       <english>Representation theory and various problems in algebra, analysis, and geometry</english>
     </title>
     <date>2018-06-19~2018-06-22</date>
@@ -28865,8 +28865,8 @@
   </folder>
   <folder num="2117">
     <title>
-      <japanese>乱流と遷移:構造、多重スケール、モデル</japanese>
-      <english>Turbulence and transition: structures, multi-scale, models</english>
+      <japanese>乱流と遷移：構造,多重スケール,モデル</japanese>
+      <english>Turbulence and transition：structures, multi-scale, models</english>
     </title>
     <date>2018-07-18~2018-07-20</date>
     <files>
@@ -29897,7 +29897,7 @@
   </folder>
   <folder num="2130">
     <title>
-      <japanese>代数系、論理、言語と計算機科学の周辺</japanese>
+      <japanese>代数系,論理,言語と計算機科学の周辺</japanese>
       <english>Algebraic system, Logic, Language and Related Areas in Computer Science</english>
     </title>
     <date>2019-02-20~2019-02-22</date>
@@ -30903,7 +30903,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2140-01.pdf</link>
       </file>
       <file num="2" numPages="8" pageFrom="-1" pageTo="-1">
-        <title>平面曲線の縮閉線もどき、垂足線もどきと反転</title>
+        <title>平面曲線の縮閉線もどき,垂足線もどきと反転</title>
         <auther>泉屋周-</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2140-02.pdf</link>
       </file>
@@ -31071,7 +31071,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2142-07.pdf</link>
       </file>
       <file num="8" numPages="9" pageFrom="-1" pageTo="-1">
-        <title>期末試験のオンライン化について〜｢行列の階数｣｢固有値｣｢固有ベクトル｣〜</title>
+        <title>期末試験のオンライン化について -｢行列の階数｣｢固有値｣｢固有ベクトル｣-</title>
         <auther>亀田真澄,宇田川暢</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2142-08.pdf</link>
       </file>

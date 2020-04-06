@@ -269,7 +269,7 @@
   <folder num="1005">
     <title>
       <japanese/>
-      <english>Discretizations of Integrable Systems: Theory and Applications</english>
+      <english>Discretizations of Integrable Systems：Theory and Applications</english>
     </title>
     <date>1996-07-29~1996-07-31</date>
     <files>
@@ -1396,7 +1396,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1018-3.pdf</link>
       </file>
       <file num="4" numPages="8" pageFrom="42" pageTo="49">
-        <title>ポアズイユ乱流･クエット乱流の平均速度、乱れ特性の実験研究</title>
+        <title>ポアズイユ乱流･クエット乱流の平均速度,乱れ特性の実験研究</title>
         <auther>鬼頭修己</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1018-4.pdf</link>
       </file>
@@ -1652,7 +1652,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1022-2.pdf</link>
       </file>
       <file num="3" numPages="7" pageFrom="20" pageTo="26">
-        <title>タイヒミュラー空間の座標付け、持ち上げ問題及び閉曲線の特徴付け</title>
+        <title>タイヒミュラー空間の座標付け,持ち上げ問題及び閉曲線の特徴付け</title>
         <auther>奥村善英</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1022-3.pdf</link>
       </file>
@@ -2281,7 +2281,7 @@
     <files>
       <file num="0" numPages="3" pageFrom="0" pageTo="0">
         <title>目次</title>
-        <auther>山田道夫、大木谷耕司</auther>
+        <auther>山田道夫,大木谷耕司</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1029-0.pdf</link>
       </file>
       <file num="1" numPages="16" pageFrom="1" pageTo="16">
@@ -2414,7 +2414,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1030-8.pdf</link>
       </file>
       <file num="9" numPages="12" pageFrom="74" pageTo="85">
-        <title>多重内部波ソリトンの線形安定性、並びに関連した話題</title>
+        <title>多重内部波ソリトンの線形安定性,並びに関連した話題</title>
         <auther>松野好雅</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1030-9.pdf</link>
       </file>
@@ -3321,7 +3321,7 @@
     <files>
       <file num="0" numPages="4" pageFrom="0" pageTo="0">
         <title>目次</title>
-        <auther>梅垣壽春、柳研二郎</auther>
+        <auther>梅垣壽春,柳研二郎</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1039-0.pdf</link>
       </file>
       <file num="1" numPages="5" pageFrom="1" pageTo="5">
@@ -3718,7 +3718,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1041-23.pdf</link>
       </file>
       <file num="24" numPages="8" pageFrom="167" pageTo="174">
-        <title>価値計算について、『論語』論理の場合</title>
+        <title>価値計算について,『論語』論理の場合</title>
         <auther>高橋英之</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1041-24.pdf</link>
       </file>
@@ -4332,7 +4332,7 @@
     <files>
       <file num="0" numPages="4" pageFrom="0" pageTo="0">
         <title>目次</title>
-        <auther>安田正実、中神潤一</auther>
+        <auther>安田正実,中神潤一</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1048-0.pdf</link>
       </file>
       <file num="1" numPages="12" pageFrom="1" pageTo="12">
@@ -4880,7 +4880,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1054-4.pdf</link>
       </file>
       <file num="5" numPages="14" pageFrom="40" pageTo="53">
-        <title>(4,7)-、(5,6)-マージングネットワークの最小比較器数のコンピュータによる計算</title>
+        <title>(4,7)-,(5,6)-マージングネットワークの最小比較器数のコンピュータによる計算</title>
         <auther>丹野岳久,岩田茂樹</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1054-5.pdf</link>
       </file>
@@ -5775,7 +5775,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1064-0.pdf</link>
       </file>
       <file num="1" numPages="5" pageFrom="1" pageTo="5">
-        <title>VolterraとH.J. Smithの論文に見られる、その導関数がRiemann積分可能でない関数の古典例について</title>
+        <title>VolterraとH.J. Smithの論文に見られる,その導関数がRiemann積分可能でない関数の古典例について</title>
         <auther>小柴洋一</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1064-1.pdf</link>
       </file>
@@ -8864,7 +8864,7 @@
     <files>
       <file num="0" numPages="2" pageFrom="0" pageTo="0">
         <title>目次</title>
-        <auther>田中一之、志村立矢</auther>
+        <auther>田中一之,志村立矢</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1096-0.pdf</link>
       </file>
       <file num="1" numPages="14" pageFrom="1" pageTo="14">
@@ -12163,7 +12163,7 @@
     <files>
       <file num="0" numPages="6" pageFrom="0" pageTo="0">
         <title>目次</title>
-        <auther>石井博昭、伊藤健</auther>
+        <auther>石井博昭,伊藤健</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1132-0.pdf</link>
       </file>
       <file num="1" numPages="2" pageFrom="1" pageTo="2">
@@ -13750,7 +13750,7 @@
   </folder>
   <folder num="1148">
     <title>
-      <japanese>計算機科学の基礎理論:21世紀の計算パラダイムを目指して</japanese>
+      <japanese>計算機科学の基礎理論：21世紀の計算パラダイムを目指して</japanese>
       <english>Foundations of Computer Science</english>
     </title>
     <date>2000-01-31~2000-02-02</date>
@@ -15811,8 +15811,8 @@
   </folder>
   <folder num="1167">
     <title>
-      <japanese>反応拡散系:生物･化学における現象とモデル</japanese>
-      <english>Reaction-Diffusion System : Experiments and Theoretical Model in Biology and Chemistry</english>
+      <japanese>反応拡散系：生物･化学における現象とモデル</japanese>
+      <english>Reaction-Diffusion System：Experiments and Theoretical Model in Biology and Chemistry</english>
     </title>
     <date>2000-04-25~2000-04-27</date>
     <files>
@@ -23624,8 +23624,8 @@
   </folder>
   <folder num="1249">
     <title>
-      <japanese>反応拡散系:理論と応用</japanese>
-      <english>International Conference on Reaction Diffusion Systems: Theory and Applications</english>
+      <japanese>反応拡散系：理論と応用</japanese>
+      <english>International Conference on Reaction Diffusion Systems：Theory and Applications</english>
     </title>
     <date>2001-02-05~2001-02-08</date>
     <files>
@@ -24422,7 +24422,7 @@
   </folder>
   <folder num="1256">
     <title>
-      <japanese>｢整数論のこの主題、自分はこう考える｣若手発表会</japanese>
+      <japanese>｢整数論のこの主題,自分はこう考える｣若手発表会</japanese>
       <english>Young Philosophers in Number Theory</english>
     </title>
     <date>2001-12-19~2001-12-21</date>
@@ -24577,7 +24577,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1257-17.pdf</link>
       </file>
       <file num="18" numPages="7" pageFrom="198" pageTo="204">
-        <title>大成算経巻之八,九〜日用術〜について</title>
+        <title>大成算経巻之八,九~日用術~について</title>
         <auther>原田美樹</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1257-18.pdf</link>
       </file>
@@ -27238,7 +27238,7 @@
   </folder>
   <folder num="1285">
     <title>
-      <japanese>乱れの発生、維持機構および統計法則の数理</japanese>
+      <japanese>乱れの発生,維持機構および統計法則の数理</japanese>
       <english>Generation-Sustenance Mechanism and Statistical Law of Turbulence</english>
     </title>
     <date>2002-01-16~2002-01-18</date>
@@ -30120,8 +30120,8 @@
   </folder>
   <folder num="1313">
     <title>
-      <japanese>非線形現象の解析:実験と数理解析</japanese>
-      <english>Analysis of Nonlinear Phenomena : Experiments and Mathematical Analysis</english>
+      <japanese>非線形現象の解析：実験と数理解析</japanese>
+      <english>Analysis of Nonlinear Phenomena：Experiments and Mathematical Analysis</english>
     </title>
     <date>2002-03-06~2002-03-08</date>
     <files>
@@ -32714,7 +32714,7 @@
   </folder>
   <folder num="1339">
     <title>
-      <japanese>乱流による輸送、拡散、混合の数理</japanese>
+      <japanese>乱流による輸送,拡散,混合の数理</japanese>
       <english>Turbulence Transport, Diffusion and Mixing</english>
     </title>
     <date>2003-01-15~2003-01-17</date>
@@ -33048,7 +33048,7 @@
     <files>
       <file num="0" numPages="5" pageFrom="0" pageTo="0">
         <title>目次</title>
-        <auther>織田孝幸、早田孝博</auther>
+        <auther>織田孝幸,早田孝博</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1342-00.pdf</link>
       </file>
       <file num="1" numPages="12" pageFrom="1" pageTo="12">
@@ -33077,12 +33077,12 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1342-05.pdf</link>
       </file>
       <file num="6" numPages="8" pageFrom="53" pageTo="60">
-        <title>IV型、Complex ballの算術商をモジュライ空間に持つ代数多様体の例について</title>
+        <title>IV型,Complex ballの算術商をモジュライ空間に持つ代数多様体の例について</title>
         <auther>金銅誠之</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1342-06.pdf</link>
       </file>
       <file num="7" numPages="9" pageFrom="61" pageTo="69">
-        <title>CALABI-YAU超曲面、判別式、QUILLEN計量</title>
+        <title>CALABI-YAU超曲面,判別式,QUILLEN計量</title>
         <auther>吉川謙一</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1342-07.pdf</link>
       </file>
@@ -33285,7 +33285,7 @@
     <files>
       <file num="0" numPages="3" pageFrom="0" pageTo="0">
         <title>目次</title>
-        <auther>今野一宏、中山昇</auther>
+        <auther>今野一宏,中山昇</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1345-0.pdf</link>
       </file>
       <file num="1" numPages="30" pageFrom="1" pageTo="30">
@@ -33453,7 +33453,7 @@
     <files>
       <file num="0" numPages="2" pageFrom="0" pageTo="0">
         <title>目次</title>
-        <auther>宇佐美広介、鈴木貴</auther>
+        <auther>宇佐美広介,鈴木貴</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1347-0.pdf</link>
       </file>
       <file num="1" numPages="11" pageFrom="1" pageTo="11">
@@ -33619,7 +33619,7 @@
   </folder>
   <folder num="1349">
     <title>
-      <japanese>数理最適化から見た｢凸性の深み、非凸性の魅惑｣</japanese>
+      <japanese>数理最適化から見た｢凸性の深み,非凸性の魅惑｣</japanese>
       <english>Captivation of Convexity ;　Fascination of Nonconvexity</english>
     </title>
     <date>2003-07-16~2003-07-18</date>
@@ -35822,7 +35822,7 @@
   </folder>
   <folder num="1371">
     <title>
-      <japanese>ゲーム理論、数理経済学への離散凸解析の応用</japanese>
+      <japanese>ゲーム理論,数理経済学への離散凸解析の応用</japanese>
       <english>Applications of Discrete Convex Analysis to Game Theory and Mathematical Economics</english>
     </title>
     <date>2004-02-04~2004-02-06</date>
@@ -36002,7 +36002,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1372-19.pdf</link>
       </file>
       <file num="20" numPages="7" pageFrom="128" pageTo="134">
-        <title>二種ニ生息域、固着性メタ固体群モデルの共存定常解</title>
+        <title>二種ニ生息域,固着性メタ固体群モデルの共存定常解</title>
         <auther>神岡勝見</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1372-20.pdf</link>
       </file>
@@ -38117,12 +38117,12 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1392-10.pdf</link>
       </file>
       <file num="11" numPages="13" pageFrom="117" pageTo="129">
-        <title>17世紀日本と18-19世紀西洋の行列式、終結式及び判別式</title>
+        <title>17世紀日本と18-19世紀西洋の行列式,終結式及び判別式</title>
         <auther>後藤武史,小松彦三郎</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1392-11.pdf</link>
       </file>
       <file num="12" numPages="2" pageFrom="130" pageTo="131">
-        <title>審査結果：｢17世紀日本と18-19世紀西洋の行列式、終結式及び判別式｣に対する審査結果</title>
+        <title>審査結果：｢17世紀日本と18-19世紀西洋の行列式,終結式及び判別式｣に対する審査結果</title>
         <auther/>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1392-12.pdf</link>
       </file>
@@ -40191,7 +40191,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1413-22.pdf</link>
       </file>
       <file num="23" numPages="7" pageFrom="186" pageTo="192">
-        <title>長距離相互作用粒子系における不安定性、及び自発的構造形成</title>
+        <title>長距離相互作用粒子系における不安定性,及び自発的構造形成</title>
         <auther>鈴木将,湯川諭,伊藤伸泰</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1413-23.pdf</link>
       </file>
@@ -40832,7 +40832,7 @@
   </folder>
   <folder num="1421">
     <title>
-      <japanese>Sp(2, R)とSU(2, 2)上の保型形式、�V</japanese>
+      <japanese>Sp(2, R)とSU(2, 2)上の保型形式,�V</japanese>
       <english>Automorphic forms on Sp(2,R) and SU(2,2), �V</english>
     </title>
     <date>2004-09-28~2004-10-01</date>
@@ -41967,7 +41967,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1432-9.pdf</link>
       </file>
       <file num="10" numPages="4" pageFrom="59" pageTo="62">
-        <title>生物の寿命、その生物数学的意味</title>
+        <title>生物の寿命,その生物数学的意味</title>
         <auther>須田斎</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1432-10.pdf</link>
       </file>
@@ -42190,7 +42190,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1434-10.pdf</link>
       </file>
       <file num="11" numPages="9" pageFrom="91" pageTo="99">
-        <title>ある大自由度カオス系の、構成の容易な状態アンサンブル</title>
+        <title>ある大自由度カオス系の,構成の容易な状態アンサンブル</title>
         <auther>川崎光宏</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1434-11.pdf</link>
       </file>
@@ -42391,7 +42391,7 @@
   </folder>
   <folder num="1437">
     <title>
-      <japanese>代数系、形式言語と計算論</japanese>
+      <japanese>代数系,形式言語と計算論</japanese>
       <english>Algebra, Languages and Computation</english>
     </title>
     <date>2005-02-21~2005-02-23</date>
@@ -42719,7 +42719,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1440-0.pdf</link>
       </file>
       <file num="1" numPages="4" pageFrom="1" pageTo="4">
-        <title>Extremal latticesに付随する球面デザインとextremal modular formsのFourier係数のmodulo pの性質について：小池正夫、篠原雅史、田上真との共同研究</title>
+        <title>Extremal latticesに付随する球面デザインとextremal modular formsのFourier係数のmodulo pの性質について：小池正夫,篠原雅史,田上真との共同研究</title>
         <auther>坂内英一</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1440-1.pdf</link>
       </file>
@@ -42947,7 +42947,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1442-0.pdf</link>
       </file>
       <file num="1" numPages="7" pageFrom="1" pageTo="7">
-        <title>竹内の基本予想とは何か、何であるべきか：50年に</title>
+        <title>竹内の基本予想とは何か,何であるべきか：50年に</title>
         <auther>新井敏康</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1442-1.pdf</link>
       </file>
@@ -43541,7 +43541,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1448-1.pdf</link>
       </file>
       <file num="2" numPages="11" pageFrom="18" pageTo="28">
-        <title>The Golden Age of Theoretical Ecology：1923-1940：P18〜33</title>
+        <title>The Golden Age of Theoretical Ecology：1923-1940：P18~33</title>
         <auther>鈴木良明</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1448-2.pdf</link>
       </file>
@@ -43586,7 +43586,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1448-10.pdf</link>
       </file>
       <file num="11" numPages="17" pageFrom="126" pageTo="142">
-        <title>PART THREE 一般理論のさらなる発展と応用 §1〜§4</title>
+        <title>PART THREE 一般理論のさらなる発展と応用 §1~§4</title>
         <auther>田頭修</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1448-11.pdf</link>
       </file>
@@ -44978,7 +44978,7 @@
   <folder num="1461">
     <title>
       <japanese>最適化数理の手法と実際</japanese>
-      <english>Mathematics of Optimization: Methods and Practical Solutions</english>
+      <english>Mathematics of Optimization：Methods and Practical Solutions</english>
     </title>
     <date>2005-07-19~2005-07-21</date>
     <files>
@@ -46065,8 +46065,8 @@
   </folder>
   <folder num="1473">
     <title>
-      <japanese>ソリトン理論から可積分数理へ:“de nouvelles perspectives ”</japanese>
-      <english>From Soliton Theory to a Mathematics of Integrable Systems : “ New Perspectives ”</english>
+      <japanese>ソリトン理論から可積分数理へ：'de nouvelles perspectives'</japanese>
+      <english>From Soliton Theory to a Mathematics of Integrable Systems：'New Perspectives'</english>
     </title>
     <date>2005-08-22~2005-08-24</date>
     <files>
@@ -47276,7 +47276,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1483-22.pdf</link>
       </file>
       <file num="23" numPages="8" pageFrom="232" pageTo="239">
-        <title>幾何学的束縛のある格子における非線形波動：生体高分子、フォトニック結晶, ガラス物質等</title>
+        <title>幾何学的束縛のある格子における非線形波動：生体高分子,フォトニック結晶, ガラス物質等</title>
         <auther>武野正三</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1483-23.pdf</link>
       </file>
@@ -48467,7 +48467,7 @@
   </folder>
   <folder num="1496">
     <title>
-      <japanese>混合、化学反応、燃焼の流体力学</japanese>
+      <japanese>混合,化学反応,燃焼の流体力学</japanese>
       <english>Fluid dynamics for mixing, chemical reaction and combustion</english>
     </title>
     <date>2006-01-11~2006-01-13</date>

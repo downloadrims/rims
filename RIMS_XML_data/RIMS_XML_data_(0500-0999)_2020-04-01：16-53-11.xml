@@ -773,7 +773,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0510-06.pdf</link>
       </file>
       <file num="7" numPages="18" pageFrom="100" pageTo="117">
-        <title>円管の内、および、外の粘性流体中を運動する粒子に働く力</title>
+        <title>円管の内,および,外の粘性流体中を運動する粒子に働く力</title>
         <auther>篠原勝</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0510-07.pdf</link>
       </file>
@@ -1084,7 +1084,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0514-02.pdf</link>
       </file>
       <file num="3" numPages="44" pageFrom="48" pageTo="91">
-        <title>関数の値、そのすべての導関数の値、および関数値計算の際に生じる丸め誤差の大きさを同時に計算する方法：計算量と実用性</title>
+        <title>関数の値,そのすべての導関数の値,および関数値計算の際に生じる丸め誤差の大きさを同時に計算する方法：計算量と実用性</title>
         <auther>伊理正夫</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0514-03.pdf</link>
       </file>
@@ -1340,7 +1340,7 @@
   <folder num="518">
     <title>
       <japanese>3･4次元多様体の幾何と代数</japanese>
-      <english>Geometry and Algebra of 3:4 Dimensional Manifold</english>
+      <english>Geometry and Algebra of 3：4 Dimensional Manifold</english>
     </title>
     <date>1984-01-26~1984-01-28</date>
     <files>
@@ -2342,7 +2342,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0531-04.pdf</link>
       </file>
       <file num="5" numPages="24" pageFrom="62" pageTo="85">
-        <title>発展方程式に対する可観測性、可制御性とフィードバック安定化可能性</title>
+        <title>発展方程式に対する可観測性,可制御性とフィードバック安定化可能性</title>
         <auther>山本昌宏,鈴木貴</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0531-05.pdf</link>
       </file>
@@ -2798,7 +2798,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0535-12.pdf</link>
       </file>
       <file num="13" numPages="33" pageFrom="257" pageTo="289">
-        <title>幾何種数の計算公式と楕円型特異点について：総合報告、その他</title>
+        <title>幾何種数の計算公式と楕円型特異点について：総合報告,その他</title>
         <auther>泊昌孝</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0535-13.pdf</link>
       </file>
@@ -3144,7 +3144,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0539-12.pdf</link>
       </file>
       <file num="13" numPages="11" pageFrom="215" pageTo="225">
-        <title>二、三の新しいタイプのMoffatt渦</title>
+        <title>二,三の新しいタイプのMoffatt渦</title>
         <auther>金田行雄</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0539-13.pdf</link>
       </file>
@@ -3262,7 +3262,7 @@
   <folder num="541">
     <title>
       <japanese>非線形問題の関数解析的研究</japanese>
-      <english>Nonlinear Evolution Equations:Theory and Applications</english>
+      <english>Nonlinear Evolution Equations：Theory and Applications</english>
     </title>
     <date>1983-10-11~1983-10-13</date>
     <files>
@@ -3722,7 +3722,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0546-11.pdf</link>
       </file>
       <file num="12" numPages="12" pageFrom="159" pageTo="170">
-        <title>重さ1の保型形式、4次剰余と楕円曲線</title>
+        <title>重さ1の保型形式,4次剰余と楕円曲線</title>
         <auther>石井伸郎</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0546-12.pdf</link>
       </file>
@@ -4675,7 +4675,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0558-09.pdf</link>
       </file>
       <file num="10" numPages="9" pageFrom="141" pageTo="149">
-        <title>赤外発散に関連した一、二の幾何学的問題</title>
+        <title>赤外発散に関連した一,二の幾何学的問題</title>
         <auther>河合隆裕</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0558-10.pdf</link>
       </file>
@@ -4719,7 +4719,7 @@
   <folder num="559">
     <title>
       <japanese>非線形発展方程式の理論と応用</japanese>
-      <english>Nonlinear Evolution Equations:Theory and Applications</english>
+      <english>Nonlinear Evolution Equations：Theory and Applications</english>
     </title>
     <date>1984-10-03~1984-10-05</date>
     <files>
@@ -6181,7 +6181,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0577-11.pdf</link>
       </file>
       <file num="12" numPages="31" pageFrom="164" pageTo="194">
-        <title>D.Gabaiによる、knot complement上のfoliationの構成</title>
+        <title>D.Gabaiによる,knot complement上のfoliationの構成</title>
         <auther>小林毅</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0577-12.pdf</link>
       </file>
@@ -6699,7 +6699,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0584-12.pdf</link>
       </file>
       <file num="13" numPages="6" pageFrom="131" pageTo="136">
-        <title>Roy の空間$＼delta$の、単純化の、一考察</title>
+        <title>Roy の空間$＼delta$の,単純化の,一考察</title>
         <auther>寺沢順</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0584-13.pdf</link>
       </file>
@@ -7237,7 +7237,7 @@
   <folder num="591">
     <title>
       <japanese>アルゴリズムの数学的基礎理論とその応用</japanese>
-      <english>Algorithms:Mathematical Foundations and Applications</english>
+      <english>Algorithms：Mathematical Foundations and Applications</english>
     </title>
     <date>1986-02-03~1986-02-05</date>
     <files>
@@ -8394,7 +8394,7 @@
   <folder num="604">
     <title>
       <japanese>非線形発展方程式の理論と応用</japanese>
-      <english>Nonlinear Evolution Equations:Theory and Applications</english>
+      <english>Nonlinear Evolution Equations：Theory and Applications</english>
     </title>
     <date>1986-10-13~1986-10-15</date>
     <files>
@@ -8814,7 +8814,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0609-12.pdf</link>
       </file>
       <file num="13" numPages="7" pageFrom="147" pageTo="153">
-        <title>二次元射影空間の、完全四角形で分岐するKummer被覆のcohomology群：II</title>
+        <title>二次元射影空間の,完全四角形で分岐するKummer被覆のcohomology群：II</title>
         <auther>織田孝幸</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0609-13.pdf</link>
       </file>
@@ -11417,7 +11417,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0641-12.pdf</link>
       </file>
       <file num="13" numPages="10" pageFrom="245" pageTo="254">
-        <title>Young 図形、普遍指標、古典群の表現のテンソル積の分解公式について</title>
+        <title>Young 図形,普遍指標,古典群の表現のテンソル積の分解公式について</title>
         <auther>小池和彦</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0641-13.pdf</link>
       </file>
@@ -12335,7 +12335,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0653-03.pdf</link>
       </file>
       <file num="4" numPages="11" pageFrom="55" pageTo="65">
-        <title>線形ダイナミカルシステムのモデル、微分作用素、可制御性</title>
+        <title>線形ダイナミカルシステムのモデル,微分作用素,可制御性</title>
         <auther>山本裕</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0653-04.pdf</link>
       </file>
@@ -12345,7 +12345,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0653-05.pdf</link>
       </file>
       <file num="6" numPages="22" pageFrom="87" pageTo="108">
-        <title>古典的補間理論の回路、制御への応用</title>
+        <title>古典的補間理論の回路,制御への応用</title>
         <auther>木村英紀</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0653-06.pdf</link>
       </file>
@@ -12848,7 +12848,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0660-07.pdf</link>
       </file>
       <file num="8" numPages="9" pageFrom="123" pageTo="131">
-        <title>Super KP系、OS$_p$-Super KP系</title>
+        <title>Super KP系,OS$_p$-Super KP系</title>
         <auther>上野喜三雄</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0660-08.pdf</link>
       </file>
@@ -13878,7 +13878,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0675-03.pdf</link>
       </file>
       <file num="4" numPages="6" pageFrom="35" pageTo="40">
-        <title>Super KP系、OS$_p$-Super KP系</title>
+        <title>Super KP系,OS$_p$-Super KP系</title>
         <auther>上野喜三雄</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0675-04.pdf</link>
       </file>
@@ -14230,7 +14230,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0678-05.pdf</link>
       </file>
       <file num="6" numPages="17" pageFrom="68" pageTo="84">
-        <title>非明示的システムとしての生物、その形式化</title>
+        <title>非明示的システムとしての生物,その形式化</title>
         <auther>郡司幸夫</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0678-06.pdf</link>
       </file>
@@ -14275,7 +14275,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0678-14.pdf</link>
       </file>
       <file num="15" numPages="14" pageFrom="196" pageTo="209">
-        <title>Hopfieldニューラルネットワークの性質に関する二、三の基礎的考察</title>
+        <title>Hopfieldニューラルネットワークの性質に関する二,三の基礎的考察</title>
         <auther>西川[ヨシ]一,喜多一</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0678-15.pdf</link>
       </file>
@@ -14898,7 +14898,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0685-04.pdf</link>
       </file>
       <file num="5" numPages="4" pageFrom="39" pageTo="42">
-        <title>プロログを用いた、あるリー環のコホモロジーの計算</title>
+        <title>プロログを用いた,あるリー環のコホモロジーの計算</title>
         <auther>柴田勝征</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0685-05.pdf</link>
       </file>
@@ -14933,7 +14933,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0685-11.pdf</link>
       </file>
       <file num="12" numPages="10" pageFrom="119" pageTo="128">
-        <title>Pfaffianの微分、Laplace展開、Jacobi等式</title>
+        <title>Pfaffianの微分,Laplace展開,Jacobi等式</title>
         <auther>広田良吾,伊藤雅明</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0685-12.pdf</link>
       </file>
@@ -15249,7 +15249,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0689-12.pdf</link>
       </file>
       <file num="13" numPages="13" pageFrom="172" pageTo="184">
-        <title>ジーゲル保型形式のヘッケ作用素に関する2、3の話題</title>
+        <title>ジーゲル保型形式のヘッケ作用素に関する2,3の話題</title>
         <auther>桂田英典</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0689-13.pdf</link>
       </file>
@@ -16521,7 +16521,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0707-03.pdf</link>
       </file>
       <file num="4" numPages="14" pageFrom="34" pageTo="47">
-        <title>有界作用素の商に関する二、三の性質について</title>
+        <title>有界作用素の商に関する二,三の性質について</title>
         <auther>泉野佐一</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0707-04.pdf</link>
       </file>
@@ -16531,7 +16531,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0707-05.pdf</link>
       </file>
       <file num="6" numPages="18" pageFrom="57" pageTo="74">
-        <title>数理物理学における二、三の不等式</title>
+        <title>数理物理学における二,三の不等式</title>
         <auther>荒木不二洋</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0707-06.pdf</link>
       </file>
@@ -17301,7 +17301,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0717-02.pdf</link>
       </file>
       <file num="3" numPages="4" pageFrom="29" pageTo="32">
-        <title>ステップ関数、フィルタ関数、デルタ関数の分数式近似</title>
+        <title>ステップ関数,フィルタ関数,デルタ関数の分数式近似</title>
         <auther>池辺八洲彦</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0717-03.pdf</link>
       </file>
@@ -19049,7 +19049,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0739-10.pdf</link>
       </file>
       <file num="11" numPages="9" pageFrom="128" pageTo="136">
-        <title>自己相似、自己アフィン、マルチフラクタル</title>
+        <title>自己相似,自己アフィン,マルチフラクタル</title>
         <auther>松下貢</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0739-11.pdf</link>
       </file>
@@ -19673,7 +19673,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0745-08.pdf</link>
       </file>
       <file num="9" numPages="19" pageFrom="110" pageTo="128">
-        <title>Approximate equations for long waves of water surface：あるいは、長い水面波の構造</title>
+        <title>Approximate equations for long waves of water surface：あるいは,長い水面波の構造</title>
         <auther>鹿野忠良</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0745-09.pdf</link>
       </file>
@@ -19822,7 +19822,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-14.pdf</link>
       </file>
       <file num="15" numPages="10" pageFrom="130" pageTo="139">
-        <title>発展方程式の数値解法：台形法の改良とZlamal法(2段、3段)の比較</title>
+        <title>発展方程式の数値解法：台形法の改良とZlamal法(2段,3段)の比較</title>
         <auther>村田健郎</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-15.pdf</link>
       </file>
@@ -21420,7 +21420,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0763-01.pdf</link>
       </file>
       <file num="2" numPages="92" pageFrom="8" pageTo="99">
-        <title>無限次元の等質空間、接続、曲率の概念に対する代数解析的視点：普遍グラスマン多様体を中心に</title>
+        <title>無限次元の等質空間,接続,曲率の概念に対する代数解析的視点：普遍グラスマン多様体を中心に</title>
         <auther>高崎金久</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0763-02.pdf</link>
       </file>
@@ -22941,7 +22941,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0782-11.pdf</link>
       </file>
       <file num="12" numPages="13" pageFrom="125" pageTo="137">
-        <title>非線形水面波動の不安定現象、特に変調不安定が関与する現象について：非線形Schrodinger方程式の有用性とその限界</title>
+        <title>非線形水面波動の不安定現象,特に変調不安定が関与する現象について：非線形Schrodinger方程式の有用性とその限界</title>
         <auther>田中光宏</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0782-12.pdf</link>
       </file>
@@ -23144,7 +23144,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0784-07.pdf</link>
       </file>
       <file num="8" numPages="3" pageFrom="99" pageTo="101">
-        <title>或る、よく知られた空間のrigidityについて</title>
+        <title>或る,よく知られた空間のrigidityについて</title>
         <auther>寺澤順</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0784-08.pdf</link>
       </file>
@@ -23713,7 +23713,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0790-25.pdf</link>
       </file>
       <file num="26" numPages="7" pageFrom="194" pageTo="200">
-        <title>ネットワークの対称性と、$k$-LEADER(S)の計算能力</title>
+        <title>ネットワークの対称性と,$k$-LEADER(S)の計算能力</title>
         <auther>坂本直志</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0790-26.pdf</link>
       </file>
@@ -25603,7 +25603,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0810-12.pdf</link>
       </file>
       <file num="13" numPages="26" pageFrom="102" pageTo="127">
-        <title>WKB解析、周期積分、変形 ･･･</title>
+        <title>WKB解析,周期積分,変形 ･･･</title>
         <auther>青木貴史,河合隆裕,竹井義次</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0810-13.pdf</link>
       </file>
@@ -26781,7 +26781,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0822-20.pdf</link>
       </file>
       <file num="21" numPages="12" pageFrom="219" pageTo="230">
-        <title>Dressing Method と逆散乱法、佐藤理論の考察</title>
+        <title>Dressing Method と逆散乱法,佐藤理論の考察</title>
         <auther>川田勉</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0822-21.pdf</link>
       </file>
@@ -28587,7 +28587,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0841-10.pdf</link>
       </file>
       <file num="11" numPages="18" pageFrom="116" pageTo="133">
-        <title>3段3次、4段4次ルンゲ･クッタ公式の解系について</title>
+        <title>3段3次,4段4次ルンゲ･クッタ公式の解系について</title>
         <auther>中島正治,黒木政喜</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0841-11.pdf</link>
       </file>
@@ -31084,7 +31084,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0869-14.pdf</link>
       </file>
       <file num="15" numPages="10" pageFrom="127" pageTo="136">
-        <title>BRS変換、B場形式そして不定計量</title>
+        <title>BRS変換,B場形式そして不定計量</title>
         <auther>西島和彦</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0869-15.pdf</link>
       </file>
@@ -32528,7 +32528,7 @@
   </folder>
   <folder num="884">
     <title>
-      <japanese>モジュライ空間、ガロア表現およびL関数</japanese>
+      <japanese>モジュライ空間,ガロア表現およびL関数</japanese>
       <english/>
     </title>
     <date>1993-10-04~1993-10-6 1994-3-28~1994-3-30</date>
@@ -32855,7 +32855,7 @@
   </folder>
   <folder num="887">
     <title>
-      <japanese>無限次元空間上の測度論、無限次元群の 表現および関連した話題</japanese>
+      <japanese>無限次元空間上の測度論,無限次元群の 表現および関連した話題</japanese>
       <english/>
     </title>
     <date>1994-05-17~1994-05-19</date>
@@ -33109,7 +33109,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0889-10.pdf</link>
       </file>
       <file num="11" numPages="11" pageFrom="113" pageTo="123">
-        <title>ソリトンと、特殊関数</title>
+        <title>ソリトンと,特殊関数</title>
         <auther>中村あきら</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0889-11.pdf</link>
       </file>
@@ -33267,7 +33267,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0891-15.pdf</link>
       </file>
       <file num="16" numPages="6" pageFrom="180" pageTo="185">
-        <title>精錬炉における非定常信号問題の扱いについての一考察：ファジィ平均、ウィグナー分布解析法の適用を中心として</title>
+        <title>精錬炉における非定常信号問題の扱いについての一考察：ファジィ平均,ウィグナー分布解析法の適用を中心として</title>
         <auther>田宮稔士,高崙山,河原田秀夫[他]</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0891-16.pdf</link>
       </file>
@@ -36379,7 +36379,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0924-8.pdf</link>
       </file>
       <file num="9" numPages="19" pageFrom="134" pageTo="152">
-        <title>2元3次形式のゼータ関数、歴史と新予想</title>
+        <title>2元3次形式のゼータ関数,歴史と新予想</title>
         <auther>大野泰生</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0924-9.pdf</link>
       </file>
@@ -36557,7 +36557,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0926-1.pdf</link>
       </file>
       <file num="2" numPages="9" pageFrom="21" pageTo="29">
-        <title>実代数曲線の位相的性質と、対合付格子の不変量の間の対応</title>
+        <title>実代数曲線の位相的性質と,対合付格子の不変量の間の対応</title>
         <auther>齋藤幸子</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0926-2.pdf</link>
       </file>
@@ -36908,7 +36908,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0930-14.pdf</link>
       </file>
       <file num="15" numPages="8" pageFrom="120" pageTo="127">
-        <title>Generic Oracles と Random Oracles について：特に、相対化BPPの部分クラスたちの分離</title>
+        <title>Generic Oracles と Random Oracles について：特に,相対化BPPの部分クラスたちの分離</title>
         <auther>工藤正史,田中尚夫</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0930-15.pdf</link>
       </file>
@@ -37278,7 +37278,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0935-8.pdf</link>
       </file>
       <file num="9" numPages="4" pageFrom="114" pageTo="117">
-        <title>非線形偏微分方程式の形式解、特性多角形とGevrey評価</title>
+        <title>非線形偏微分方程式の形式解,特性多角形とGevrey評価</title>
         <auther>大内忠</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0935-9.pdf</link>
       </file>
@@ -37381,7 +37381,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0937-0.pdf</link>
       </file>
       <file num="1" numPages="6" pageFrom="1" pageTo="6">
-        <title>Fourier超函数、指数型函数、及びAvanissian-Gay変換について</title>
+        <title>Fourier超函数,指数型函数,及びAvanissian-Gay変換について</title>
         <auther>程遠</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0937-1.pdf</link>
       </file>
@@ -38011,7 +38011,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0942-9.pdf</link>
       </file>
       <file num="10" numPages="10" pageFrom="124" pageTo="133">
-        <title>P進L関数と、正規整数底についての或る問題</title>
+        <title>P進L関数と,正規整数底についての或る問題</title>
         <auther>市村文男</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0942-10.pdf</link>
       </file>
@@ -38804,7 +38804,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0949-17.pdf</link>
       </file>
       <file num="18" numPages="10" pageFrom="183" pageTo="192">
-        <title>Derivative Nonlinear Schrodinger 方程式から得られる方程式と、時間変化する内部構造を持つ非線形孤立波</title>
+        <title>Derivative Nonlinear Schrodinger 方程式から得られる方程式と,時間変化する内部構造を持つ非線形孤立波</title>
         <auther>矢嶋徹</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0949-18.pdf</link>
       </file>
@@ -39175,7 +39175,7 @@
   </folder>
   <folder num="952">
     <title>
-      <japanese>可微分写像の特異点論:トポロジーと 応用</japanese>
+      <japanese>可微分写像の特異点論：トポロジーと応用</japanese>
       <english/>
     </title>
     <date>1996-01-08~1996-01-11</date>
@@ -39799,7 +39799,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0959-5.pdf</link>
       </file>
       <file num="6" numPages="14" pageFrom="59" pageTo="72">
-        <title>Rational Semigroupsにおける,安定領域での極限関数と、Julia集合の連続性</title>
+        <title>Rational Semigroupsにおける,安定領域での極限関数と,Julia集合の連続性</title>
         <auther>角大輝</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0959-6.pdf</link>
       </file>
@@ -40086,12 +40086,12 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0962-0.pdf</link>
       </file>
       <file num="1" numPages="18" pageFrom="1" pageTo="18">
-        <title>$M_24$〜M(I)</title>
+        <title>$M_24$~M(I)</title>
         <auther>北詰正顕,宮本雅彦</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0962-1.pdf</link>
       </file>
       <file num="2" numPages="13" pageFrom="19" pageTo="31">
-        <title>M$_{24}$〜$＼mathbb{M}$(II, III)</title>
+        <title>M$_{24}$~$＼mathbb{M}$(II, III)</title>
         <auther>北詰正顕,宮本雅彦</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0962-2.pdf</link>
       </file>
@@ -40888,7 +40888,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0970-8.pdf</link>
       </file>
       <file num="9" numPages="9" pageFrom="71" pageTo="79">
-        <title>地球のコア内の流れ 特に、コア･マントル間の熱的相互作用</title>
+        <title>地球のコア内の流れ 特に,コア･マントル間の熱的相互作用</title>
         <auther>吉田茂生</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0970-9.pdf</link>
       </file>
