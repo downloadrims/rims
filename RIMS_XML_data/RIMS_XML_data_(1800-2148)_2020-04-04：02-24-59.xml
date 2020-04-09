@@ -651,8 +651,8 @@
   </folder>
   <folder num="1806">
     <title>
-      <japanese>解析的整数論 - 数論的関数の多重性に関連して</japanese>
-      <english>Analytic Number Theory - related Multiple aspects of Arithmetic Functions</english>
+      <japanese>解析的整数論 -数論的関数の多重性に関連して-</japanese>
+      <english>Analytic Number Theory -related Multiple aspects of Arithmetic Functions-</english>
     </title>
     <date>2011-10-31~2011-11-02</date>
     <files>
@@ -1399,7 +1399,7 @@
   <folder num="1814">
     <title>
       <japanese/>
-      <english>Computer Algebra - Design of Algorithms, Implementations and Applications</english>
+      <english>Computer Algebra -Design of Algorithms, Implementations and Applications-</english>
     </title>
     <date>2009-11-04~2009-11-06</date>
     <files>
@@ -1508,7 +1508,7 @@
   <folder num="1815">
     <title>
       <japanese/>
-      <english>Computer Algebra - Design of Algorithms, Implementations and Applications</english>
+      <english>Computer Algebra -Design of Algorithms, Implementations and Applications-</english>
     </title>
     <date>2010-12-01~2010-12-03</date>
     <files>
@@ -1843,8 +1843,8 @@
   </folder>
   <folder num="1819">
     <title>
-      <japanese>独立性と従属性の数理 - 函数解析学の視点から -</japanese>
-      <english>Mathematical Studies on Independence and Dependence Structure - A Functional Analytic Point of View -</english>
+      <japanese>独立性と従属性の数理 -函数解析学の視点から-</japanese>
+      <english>Mathematical Studies on Independence and Dependence Structure -A Functional Analytic Point of View-</english>
     </title>
     <date>2010-12-20~2010-12-22</date>
     <files>
@@ -1952,8 +1952,8 @@
   </folder>
   <folder num="1820">
     <title>
-      <japanese>独立性と従属性の数理 - 代数と確率の出会い -</japanese>
-      <english>Mathematical Studies on Independence and Dependence Structure - Algebra meets Probability -</english>
+      <japanese>独立性と従属性の数理 -代数と確率の出会い-</japanese>
+      <english>Mathematical Studies on Independence and Dependence Structure -Algebra meets Probability-</english>
     </title>
     <date>2011-12-19~2011-12-21</date>
     <files>
@@ -2671,7 +2671,7 @@
   <folder num="1827">
     <title>
       <japanese>力学系の作る集団ダイナミクス -保存系･散逸系の枠組みを越えて-</japanese>
-      <english>Collective Dynamics in Dynamical Systems - Across the border of preserving and dissipative systems -</english>
+      <english>Collective Dynamics in Dynamical Systems -Across the border of preserving and dissipative systems-</english>
     </title>
     <date>2012-09-26~2012-09-28</date>
     <files>
@@ -3465,8 +3465,8 @@
   </folder>
   <folder num="1837">
     <title>
-      <japanese>変分問題の展開-確率論と交錯する変分問題</japanese>
-      <english>Progress in Variational Problems - Variational Problems Interacting with Probability Theories</english>
+      <japanese>変分問題の展開 -確率論と交錯する変分問題-</japanese>
+      <english>Progress in Variational Problems -Variational Problems Interacting with Probability Theories-</english>
     </title>
     <date>2012-06-11~2012-06-13</date>
     <files>
@@ -3702,8 +3702,8 @@
   </folder>
   <folder num="1840">
     <title>
-      <japanese>ホップ代数と量子群 — 応用の可能性</japanese>
-      <english>Hopf algebras and quantum groups - their possible applications</english>
+      <japanese>ホップ代数と量子群 —応用の可能性-</japanese>
+      <english>Hopf algebras and quantum groups -their possible applications-</english>
     </title>
     <date>2012-09-03~2012-09-05</date>
     <files>
@@ -3954,8 +3954,8 @@
   </folder>
   <folder num="1843">
     <title>
-      <japanese>数式処理 - その研究と目指すもの</japanese>
-      <english>Computer Algebra - The Algorithms, Implementations and the Next Generation -</english>
+      <japanese>数式処理 -その研究と目指すもの-</japanese>
+      <english>Computer Algebra -The Algorithms, Implementations and the Next Generation-</english>
     </title>
     <date>2012-12-25~2012-12-27</date>
     <files>
@@ -8405,8 +8405,8 @@
   </folder>
   <folder num="1892">
     <title>
-      <japanese>抽象的発展方程式の新たなる役割 - 個々の偏微分方程式を俯瞰する観点から -</japanese>
-      <english>New Role of the Theory of Abstract Evolution Equations - From a Point of View Overlooking the Individual Partial Differential Equations -</english>
+      <japanese>抽象的発展方程式の新たなる役割 -個々の偏微分方程式を俯瞰する観点から-</japanese>
+      <english>New Role of the Theory of Abstract Evolution Equations -From a Point of View Overlooking the Individual Partial Differential Equations-</english>
     </title>
     <date>2013-10-21~2013-10-23</date>
     <files>
@@ -18298,7 +18298,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2000-00.pdf</link>
       </file>
       <file num="1" numPages="100" pageFrom="1" pageTo="100">
-        <title>リスト List of RIMS Kokyuroku (No.1001 - No.1999)</title>
+        <title>リスト List of RIMS Kokyuroku (No.1001-No.1999)</title>
         <auther/>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2000-01.pdf</link>
       </file>
@@ -18919,7 +18919,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2009-01.pdf</link>
       </file>
       <file num="2" numPages="6" pageFrom="12" pageTo="17">
-        <title>Mass transfer across fluid interfaces - modeling the influence of adsorbed surfactant</title>
+        <title>Mass transfer across fluid interfaces -modeling the influence of adsorbed surfactant-</title>
         <auther>Dieter Bothe</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2009-02.pdf</link>
       </file>
@@ -19274,8 +19274,8 @@
   </folder>
   <folder num="2013">
     <title>
-      <japanese>解析的整数論-数論的対象の分布と近似</japanese>
-      <english>Analytic Number Theory - Distribution and Approximation of Arithmetic Objects</english>
+      <japanese>解析的整数論 -数論的対象の分布と近似-</japanese>
+      <english>Analytic Number Theory -Distribution and Approximation of Arithmetic Objects-</english>
     </title>
     <date>2014-10-29~2014-10-31</date>
     <files>
@@ -19794,7 +19794,7 @@
   <folder num="2019">
     <title>
       <japanese>数式処理の新たな発展 -その最新研究と基礎理論の再構成-</japanese>
-      <english>Developments in Computer Algebra - Recent Research and Re-Formation of Basic Theory -</english>
+      <english>Developments in Computer Algebra -Recent Research and Re-Formation of Basic Theory-</english>
     </title>
     <date>2016-09-07~2016-09-09</date>
     <files>
@@ -25880,8 +25880,8 @@
   </folder>
   <folder num="2087">
     <title>
-      <japanese>第14回生物数学の理論とその応用 - 構造化個体群ダイナミクスとその応用</japanese>
-      <english>Theory of Biomathematics and Its Applications XIV - Modelling and Analysis for Structured Population Dynamics and its Applications</english>
+      <japanese>第14回生物数学の理論とその応用 -構造化個体群ダイナミクスとその応用-</japanese>
+      <english>Theory of Biomathematics and Its Applications XIV -Modelling and Analysis for Structured Population Dynamics and its Applications-</english>
     </title>
     <date>2017-11-08~2017-11-10</date>
     <files>
@@ -27419,7 +27419,7 @@
   <folder num="2104">
     <title>
       <japanese/>
-      <english>Computer Algebra - Theory and its Applications</english>
+      <english>Computer Algebra -Theory and its Applications-</english>
     </title>
     <date>2017-12-20~2017-12-22</date>
     <files>
@@ -29577,7 +29577,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2126-13.pdf</link>
       </file>
       <file num="14" numPages="10" pageFrom="-1" pageTo="-1">
-        <title>折り紙ユニットによる凸多面体構成問題について - 実現可能な展開図の列挙 -</title>
+        <title>折り紙ユニットによる凸多面体構成問題について -実現可能な展開図の列挙-</title>
         <auther>藤田敏治</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2126-14.pdf</link>
       </file>
@@ -29622,7 +29622,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2126-22.pdf</link>
       </file>
       <file num="23" numPages="10" pageFrom="-1" pageTo="-1">
-        <title>Semi-Sibonacci Programming - from Sibonacci to Silver -</title>
+        <title>Semi-Sibonacci Programming -from Sibonacci to Silver-</title>
         <auther>岩本誠一,木村寛</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2126-23.pdf</link>
       </file>
@@ -29849,7 +29849,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2129-03.pdf</link>
       </file>
       <file num="4" numPages="7" pageFrom="-1" pageTo="-1">
-        <title>Positive flow-spines and contact structures - a short summary</title>
+        <title>Positive flow-spines and contact structures -a short summary-</title>
         <auther>石井一平,石川昌治,古宇田悠哉,直江央寛</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2129-04.pdf</link>
       </file>
@@ -30670,7 +30670,7 @@
   <folder num="2138">
     <title>
       <japanese/>
-      <english>Computer Algebra - Theory and its Applications</english>
+      <english>Computer Algebra -Theory and its Applications-</english>
     </title>
     <date>2018-12-17~2018-12-20</date>
     <files>
@@ -30740,7 +30740,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2138-12.pdf</link>
       </file>
       <file num="13" numPages="9" pageFrom="87" pageTo="95">
-        <title>拡張Hensel構成の効率化 - 疎な多変数多項式の因数分解を念頭に - </title>
+        <title>拡張Hensel構成の効率化 -疎な多変数多項式の因数分解を念頭に-</title>
         <auther>佐々木建昭,讃岐勝,稲葉大樹</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2138-13.pdf</link>
       </file>

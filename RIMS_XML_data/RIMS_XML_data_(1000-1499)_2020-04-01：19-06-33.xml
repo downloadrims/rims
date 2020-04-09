@@ -3047,7 +3047,7 @@
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1037-0.pdf</link>
       </file>
       <file num="1" numPages="10" pageFrom="1" pageTo="10">
-        <title>擬凸領域に関するニ･三の注意 - とくに$＼P^n$の領域について</title>
+        <title>擬凸領域に関するニ･三の注意 -とくに$＼P^n$の領域について-</title>
         <auther>大沢健夫</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1037-1.pdf</link>
       </file>
@@ -6607,7 +6607,7 @@
     <files>
       <file num="0" numPages="4" pageFrom="0" pageTo="0">
         <title>目次</title>
-        <auther>關口力/諏訪紀幸</auther>
+        <auther>關口力,諏訪紀幸</auther>
         <link>http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1073-0.pdf</link>
       </file>
       <file num="1" numPages="48" pageFrom="1" pageTo="48">
@@ -6674,7 +6674,7 @@
   </folder>
   <folder num="1074">
     <title>
-      <japanese>一般及び幾何学的トポロジ-</japanese>
+      <japanese>一般及び幾何学的トポロジー</japanese>
       <english>General and Geometric Topology</english>
     </title>
     <date>1998-03-04~1998-03-06</date>
@@ -11092,8 +11092,8 @@
   </folder>
   <folder num="1121">
     <title>
-      <japanese>組織的渦構造 - その乱流力学における役割</japanese>
-      <english>Coherent Vortical Structures - Their Roles in Turbulence Dynamics</english>
+      <japanese>組織的渦構造 -その乱流力学における役割-</japanese>
+      <english>Coherent Vortical Structures -Their Roles in Turbulence Dynamics-</english>
     </title>
     <date>1999-01-18~1999-01-20</date>
     <files>
@@ -14044,7 +14044,7 @@
   <folder num="1150">
     <title>
       <japanese>ソーフィス･リー没後百年記念国際研究集会</japanese>
-      <english>Lie Groups, Geometric Structures and Differential Equations - One Hundred Years after Sophus Lie -</english>
+      <english>Lie Groups, Geometric Structures and Differential Equations -One Hundred Years after Sophus Lie-</english>
     </title>
     <date>1999-12-13~1999-12-17</date>
     <files>
@@ -28174,7 +28174,7 @@
   <folder num="1295">
     <title>
       <japanese/>
-      <english>Computer Algebra - Algorithms, Implementations and Applications</english>
+      <english>Computer Algebra -Algorithms, Implementations and Applications-</english>
     </title>
     <date>2001-11-19~2001-11-22</date>
     <files>
@@ -32234,7 +32234,7 @@
   <folder num="1335">
     <title>
       <japanese/>
-      <english>Computer Algebra - Algorithms, Implementations and Applications</english>
+      <english>Computer Algebra -Algorithms, Implementations and Applications-</english>
     </title>
     <date>2002-12-10~2002-12-13</date>
     <files>
@@ -38414,7 +38414,7 @@
   <folder num="1395">
     <title>
       <japanese/>
-      <english>Computer Algebra - Design of Algorithms, Implementations and Applications</english>
+      <english>Computer Algebra -Design of Algorithms, Implementations and Applications-</english>
     </title>
     <date>2003-12-15~2003-12-18</date>
     <files>
@@ -39053,8 +39053,8 @@
   </folder>
   <folder num="1400">
     <title>
-      <japanese>可積分系理論とその周辺 - 課題と展望を探る</japanese>
-      <english>Theory of integrable systems and related topics - State of arts and perspectives</english>
+      <japanese>可積分系理論とその周辺 -課題と展望を探る-</japanese>
+      <english>Theory of integrable systems and related topics -State of arts and perspectives-</english>
     </title>
     <date>2003-07-30~2003-08-01</date>
     <files>
@@ -44378,7 +44378,7 @@
   <folder num="1456">
     <title>
       <japanese/>
-      <english>Computer Algebra - Design of Algorithms, Implementations and Applications</english>
+      <english>Computer Algebra -Design of Algorithms, Implementations and Applications-</english>
     </title>
     <date>2004-12-13~2004-12-16</date>
     <files>
@@ -46889,7 +46889,7 @@
   <folder num="1480">
     <title>
       <japanese>可解格子模型の最近の進展</japanese>
-      <english>Solvable Lattice Models 2004 - Recent Progress on Solvable Lattice Models -</english>
+      <english>Solvable Lattice Models 2004 -Recent Progress on Solvable Lattice Models-</english>
     </title>
     <date>2004-07-20~2004-07-23</date>
     <files>
