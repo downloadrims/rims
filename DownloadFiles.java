@@ -100,7 +100,10 @@ public class DownloadFiles {
 						}
 						printwriter.print(fileName + "\r\n"); // ファイル名出力
 						int c = (basePath + folders[i] + folderName + "\\" + fileName + ".pdf").length();
-						if (c >= 250) { // これでもまだパス名が長すぎる時は要注意と言うことで一応チェック。
+						if (c >= 260) {
+							// これでもまだパス名が長すぎる時は要注意と言うことで一応チェック。
+							// というか、Windows10ではパス長が259文字が最大文字数らしい。
+							// 恐らくこれ以上のパス長でダウンロードすると、操作できない架空のファイルになるっぽい
 							System.out.println("large:" + c + ":" + fileName);
 						}
 						// ファイルを並列してダウンロード
