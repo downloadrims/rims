@@ -1,5 +1,3 @@
-package download_RIMS;
-
 import java.awt.Toolkit;
 import java.io.BufferedInputStream;
 import java.io.BufferedWriter;
@@ -21,7 +19,7 @@ import org.jsoup.nodes.Element;
 import org.jsoup.parser.Parser;
 
 public class DownloadFiles {
-	public static final String basePath = "M:\\My_Video(8TB)\\RIMS(原本)\\";
+	public static final String basePath = "【ここにRIMS_XML_dataフォルダのパス】\\";
 	public static final String[] folders = new String[]{
 			"0001-0499\\",
 			"0500-0999\\",
